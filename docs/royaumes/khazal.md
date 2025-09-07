@@ -1,6 +1,6 @@
-# 🏔️ Le Royaume de Khazal – Aux Portes des Steppes
+# Khazal
 
-## 📍 Géographie
+## Géographie
 
 Situé au sud des [Collines de l’Écho](../lieux/colline-echo.md) et du [fleuve Aldéra](../fleuves/aldera.md), Khazal s’étend sur de vastes steppes froides et ouvertes, ponctuées de rares forêts et de reliefs rocailleux.  
 
@@ -21,7 +21,7 @@ Au sud, les terres se figent en plaines gelées, surveillées par la cité-campe
 ![Carte de Khazal](../../images/Khazal.jpg)
 
 
-## 🌆 Villes principales
+## Villes principales
 
 - **[Zerak'Tul](../villes/zeraktul.md)** : la capitale, bâtie sur les rives du lac Dorin. Cité fortifiée et prospère, centre du pouvoir royal et du commerce fluvial.  
 - **[Khareb](../villes/khareb.md)** : carrefour des steppes, riche en marchés, réputée pour ses chevaux rapides et ses guerriers nomades.  
@@ -33,7 +33,7 @@ Au sud, les terres se figent en plaines gelées, surveillées par la cité-campe
 
 
 
-## 🌟 Culture et population
+## Culture et population
 
 - Les Khazaliens sont réputés pour leur **endurance** et leur **adaptation aux climats rudes**.  
 - Les steppes ont forgé un peuple de **cavaliers et d’éleveurs**, mais aussi de pêcheurs autour du lac Dorin.  
@@ -43,7 +43,7 @@ Au sud, les terres se figent en plaines gelées, surveillées par la cité-campe
 
 
 
-## ⚔️ Menaces et enjeux
+## Menaces et enjeux
 
 - Les **incursions de dragons blancs juvéniles** au sud menacent régulièrement Diular.  
 - Les **bandes gobelines** et autres pillards se réfugient dans les Collines de l’Écho et ravagent parfois les campagnes.  

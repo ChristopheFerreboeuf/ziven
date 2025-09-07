@@ -31,13 +31,12 @@ C’est un monde hostile et contrasté, marqué par ses frontières naturelles, 
 
 ## 📖 Documentation
 
-La documentation complète est disponible dans le dossier [`docs/`](./docs).
-
 ### Royaumes
 - [Khazal](./docs/royaumes/khazal.md) — royaume des steppes, organisé autour du lac Dorin et menacé par les dragons du sud.  
 - [Edravorn](./docs/royaumes/edravorn.md) — vaste territoire tribal, sans roi, où les tribus répondent à l’appel en cas de menace.  
 - [Valcalme](./docs/royaumes/valcalme.md) — royaume prospère du nord, qui contrôle l’embouchure de l’Aldéra et le commerce maritime.  
-- [Siquimes](./docs/royaumes/siquimes.md) — dynastie marchande, puissante autour de l’estuaire de l’Imrisse.  
+- [Siquimes](./docs/royaumes/siquimes.md) — plus vaste royaume du sous-continent. La puissance militaire de la famille Siquimes fait qu'elle gouverne largement la diplomatie.
+- Cité-état de [Ternil](./docs/royaumes/ternil.md) - tire sa richesse du commerce avec les nains des dents du crépuscule.  
 
 ### Régions
 - [Plaine centrale](./docs/regions/plaine_centrale.md) — territoire fertile, densément peuplé, traversé par l’Imrisse.  

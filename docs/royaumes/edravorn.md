@@ -1,4 +1,4 @@
-# Edravorn – Les Steppes Libres
+# Edravorn
 
 **Type :** Territoire tribal (sans roi)  
 **Résumé :** Edravorn couvre la majeure partie des Collines de l’Écho. Les tribus cavalières vivent en indépendance, mais se rassemblent à l’appel contre toute agression de Khazal ou Valcalme.

@@ -1,11 +1,11 @@
 # Royaume de Siquimes  
-**Type** : Dynastie marchande  
+**Type** : Dynastie ancienne et diplomatique  
 
 **Résumé**  
-Puissante maison régnante contrôlant l’estuaire de l’Imrisse. Son influence repose sur le commerce fluvial et maritime, faisant de la région un carrefour incontournable des échanges de Ziven.  
+Plus vieille dynastie du sous-continent, garante de la stabilité politique depuis des siècles. Son pouvoir repose sur la force militaire et une diplomatie active. Contrairement à d’autres royaumes, Siquimes délègue la majorité du commerce aux guildes elfiques, préférant consolider son influence par les alliances et les ambassades. C’est le seul royaume à disposer de représentations officielles dans chaque royaume et cité-État, ainsi que dans des contrées plus lointaines.  
 
 ## Capitale  
-- **[Siquivorn](../villes/siquivorn.md)** — Ville de canaux, prospère et cosmopolite, siège du palais Siquimes.  
+- **[Siquivorn](../villes/siquivorn.md)** — Ville de canaux, prospère et cosmopolite, siège du palais Siquimes. On y trouve le prestigieux *quartier des ambassades*, aux rues pavées de **sillar** (pierre blanche volcanique) et bordées d’édifices reflétant chacun le style architectural de leur royaume ou cité d’origine.  
 
 ## Villes principales  
 - **[Glounar](../villes/glounar.md)** — Deuxième ville du sous-continent, grand carrefour commercial. Située au point où cesse la navigabilité de l’Imrisse, elle marque aussi la limite du contrôle direct des Siquimes.  
@@ -24,5 +24,5 @@ Puissante maison régnante contrôlant l’estuaire de l’Imrisse. Son influenc
 - **Est** : Royaume de [Valcalme](/docs/royaumes/valcalme.md).  
 - **Sud** : Royaume de Tharvel.  
 - **Ouest** :  
-  - Cité-État de **Ternil**, qui contrôle une grande partie du commerce avec les mines naines des Dents du Crépuscule.  
+  - Cité-État de **[Ternil](ternil.md)**, qui contrôle une grande partie du commerce avec les mines naines des Dents du Crépuscule.  
   - Plus au nord, le **royaume de Vaultclos**.  
