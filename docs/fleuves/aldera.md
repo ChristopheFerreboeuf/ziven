@@ -1,14 +1,14 @@
 # 🌊 Aldéra – Le Fleuve des Échos
 
 ## 📍 Origine et parcours
-<img src="/images/temple-istus.png" alt="Temple d'Istus" style="float: right; margin: 10px; width: 300px;" />
+<img src="../../images/temple-istus.png" alt="Temple d'Istus" style="float: right; margin: 10px; width: 300px;" />
 
 - **Source :** prend naissance dans les **Collines de l’Écho**, au cœur du **plateau d’Onalpita**.  
-- **Chute majeure :** le **Voile d’Aldéra**, une cascade vertigineuse de près de 1000 mètres qui gronde comme un tonnerre perpétuel.  
+- **Chute majeure :** le **Voile d’Aldéra**, une cascade vertigineuse de près de 1000 mètres qui gronde comme un tonnerre perpétuel. Outre les curieux qui viennent voir l'immense chute d'eau, il y a de nombreux pèlerins qui viennent au **temple d'Istus** qui se situe au pied de l'immense chute d'eau de près de 1000m. La hauteur de chute fait qu'une brume recouvre la vallée depuis le temple d'Istus jusqu'à la haute vallée de l'Aldéra dans le canyon par lequel passait le fleuve avant le grand temblement.
 - **Trajet :** serpente ensuite paisiblement à travers le **Royaume de Valcalme**.  
-- **Embouchure :** se jette dans l’océan à la capitale **Hroldar**, bâtie autour de son delta.  
-- Le **Voile d’Aldéra** attire de nombreux pèlerins qui viennent au temple d'Istus qui se situe au pied de l'immense chute d'eau de près de 1000m. La hauteur de chute fait qu'une brume recouvre la vallée depuis le temple d'Istus jusqu'à la haute vallée de l'Aldéra dans le canyon par lequel passait le fleuve avant le grand temblement.  
+- **Embouchure :** se jette dans l’océan à la capitale **Hroldar**, bâtie autour de son delta. 
 
+<br style="clear: both">
 
 ## 🌟 Importance
 - **Économique :** véritable artère de Valcalme. Le fleuve alimente moulins, cultures, commerce fluvial et pêche.  
