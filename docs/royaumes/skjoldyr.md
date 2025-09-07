@@ -8,7 +8,7 @@
   Arkhazem est aussi une ville académique, abritant l’école de musique de la grande guilde des bardes.  
 
 ## Géographie  
-- **Cap Poorv** — Extrémité orientale du sous-continent, battue par un vent austral glacial et permanent. Une forteresse colossale y abrite un contingent commun de tous les royaumes.  
+- **[Cap Poorv](../lieux/fort_de_poorv.md)** — Extrémité orientale du sous-continent, battue par un vent austral glacial et permanent. Une forteresse colossale y abrite un contingent commun de tous les royaumes.  
 - **Mine de Poorv** — Immense exploitation charbonnière proche du cap Poorv, flanquée d’un bagne. Le charbon y est acheminé vers le reste du sous-continent par **Poorvichahar**, ville caravanière située à deux jours de marche.  
 - **Vallée de l’Imgodir** — Chaude et souvent noyée de brume, en contraste avec les hauts plateaux glacés d’Onalpita qui la bordent.  
 
@@ -16,8 +16,8 @@
 - **Arkhazem** — Capitale, ville-pont surplombant l’Imgodir.  
 - **Norvik** — Ville au bord du lac des Murmures.  
 - **Eiswynn** — Ville lacustre jumelle de Norvik.  
-- **Dibornad** — Port fluvial à l’embouchure de l’Imgodir.  
-- **Poorvichahar** — Ville de transit du charbon venant du cap Poorv.  
+- **[Dibornad](../villes/dibornad.md)** — Port fluvial à l’embouchure de l’Imgodir.  
+- **[Poorvichahar](../villes/poorvichahar.md)** — Ville de transit du charbon venant du cap Poorv.  
 
 ## Économie  
 - La vallée de l’Imgodir sert de grenier aux hauts plateaux. Le développement urbain y est strictement codifié et les terres y sont très chères.  
