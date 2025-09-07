@@ -70,6 +70,7 @@ La documentation complète est disponible dans le dossier [`docs/`](./docs).
 ### Fleuves
 - [Imrisse](./docs/fleuves/imrisse.md)
 - [Imgodir](./docs/fleuves/imgodir.md)
+- [Aldéra](./docs/fleuves/aldera.md)
 
 ### Villes
 - [Siquivorn (capitale)](./docs/villes/siquivorn.md)
