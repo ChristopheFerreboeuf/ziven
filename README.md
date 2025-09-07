@@ -37,6 +37,8 @@ C’est un monde hostile et contrasté, marqué par ses frontières naturelles, 
 - [Valcalme](./docs/royaumes/valcalme.md) — royaume prospère du nord, qui contrôle l’embouchure de l’Aldéra et le commerce maritime.  
 - [Siquimes](./docs/royaumes/siquimes.md) — plus vaste royaume du sous-continent. La puissance militaire de la famille Siquimes fait qu'elle gouverne largement la diplomatie.
 - Cité-état de [Ternil](./docs/royaumes/ternil.md) - tire sa richesse du commerce avec les nains des dents du crépuscule.  
+- [Skjoldyr](./docs/royaumes/skjoldyr.md) - royaume de l'Est, gouverné par les magiciens.
+- Cité-état de [Grimstad](./docs/royaumes/grimstad.md) - république ouvrière qui abrite le plus grand chantier naval
 
 ### Régions
 - [Plaine centrale](./docs/regions/plaine_centrale.md) — territoire fertile, densément peuplé, traversé par l’Imrisse.  
@@ -50,20 +52,6 @@ C’est un monde hostile et contrasté, marqué par ses frontières naturelles, 
 ### Fleuves
 - [Imrisse](./docs/fleuves/imrisse.md) — prend sa source dans les Dents du Crépuscule et traverse la plaine centrale. Navigable jusqu’à Glounar.  
 - [Imgodir](./docs/fleuves/imgodir.md) — coupe Onalpita sur plus de 1000 km en un canyon profond de 1000 m.  
-- [Aldéra](./docs/fleuves/aldera.md) — né sur le plateau d’Onalpita, franchit le Voile d’Aldéra avant de rejoindre Valcalme.  
-
-### Villes
-- [Siquivorn](./docs/villes/siquivorn.md) — capitale du royaume de Siquimes, ville de canaux dominée par le palais Siquimes.  
-- [Glounar](./docs/villes/glounar.md) — deuxième ville du sous-continent, carrefour commercial sur l’Imrisse.  
-- [Poorvichahar](./docs/villes/poorvichahar.md) — port du sud-est, centre d’exportation du charbon.  
-- [Dibornad](./docs/villes/dibornad.md) — ville installée dans le delta de l’Imgodir.  
-
-### Factions
-- [Famille Siquimes](./docs/factions/famille_siquimes.md) — dynastie régnante, influente dans le commerce fluvial et maritime.  
-- [Garnison du Fort de Poorv](./docs/factions/garnison_fort_poorv.md) — garnison mixte, composée de toutes les races, gardienne du sud-est.  
-- [Marchands elfes d’Iglindon](./docs/factions/marchands_elfes_iglindon.md) — réseau de commerçants et érudits établis dans les ports.  
-- [Communautés tieffelines des ports du nord](./docs/factions/communautes_tieffelines_ports_nord.md) — marginaux, organisés en petites confréries de survie.  
-- [Nains des Dents du Crépuscule](./docs/factions/nains_dents_du_crepuscule.md) — clans miniers puissants, alliés traditionnels des drakkéïdes.  
-- [Villages drakkéïdes de l’Ouest](./docs/factions/villages_drakkeides_ouest.md) — hameaux fortifiés, connus pour leur courage face aux dragons.  
+- [Aldéra](./docs/fleuves/aldera.md) — né sur le plateau d’Onalpita, franchit le Voile d’Aldéra avant de rejoindre Valcalme.   
 
 

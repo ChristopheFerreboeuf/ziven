@@ -36,4 +36,4 @@ La famille **Basmaret**, branche cadette issue de la maison **Siquimes**.
 - Relations **cordiales mais froides** avec le royaume de **Siquimes**, dont Valcalme est issu par sécession il y a trois siècles.  
 - **Tensions vives** avec **[Khazal](khazal.md)** et les tribus d’**[Edravorn](edravorn.md)** depuis l’annexion de la haute vallée de l’Aldéra.  
 - **Inquiétude** de **Tharvell**, qui craint l’appétit militaire de Valcalme pour ses forêts d’Igrodia.  
-- **Relations privilégiées** avec la cité-état de **Grimstad**, seule alliée véritable.  
+- **Relations privilégiées** avec la cité-état de **[Grimstad](grimstad.md)**, seule alliée véritable.  
