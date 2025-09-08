@@ -32,17 +32,18 @@ type: ville
     - Escaliers du trône en **dalles uniques**, reflétant la lumière des braseros à sel gemme.
     - Colonnes sculptées en **kelps** (algues géantes) avec incrustations de nacre.
 
----
 
 ## **2. Hiérarchie sociale et matériaux**
-| **Lieu**               | **Matériau dominant**       | **Détails**                                                                 | **Symbolique**                          |
-|------------------------|-----------------------------|-----------------------------------------------------------------------------|-----------------------------------------|
-| Port et quartiers pauvres | Calcaire glauconieux brut   | Blocs irréguliers, joints en corail broyé.                                  | Humilité, lien avec la mer.            |
-| Marché et guildes      | Calcaire poli + cuivre      | Portails renforcés de cuivre contre les sorts.                             | Prosperité et artisanat.               |
-| Temples et bibliothèques | Calcaire + aventurine      | Vitraux en quartz vert, filtrant une lumière aquatique.                    | Savoir et spiritualité.                |
-| Palais royal           | Marbre vert + jade          | Piliers en monolithes de jade, trône taillé dans un bloc unique.           | Pouvoir absolu.                         |
-| Tour des Mages         | Calcaire + obsidienne verte | Fenêtres en cristaux de prase, obsidienne anti-sorts.                       | Secret et défense.                      |
-| Nécropole              | Pierre de Vers (vert foncé) | Tombes scellées à la résine de pin fossilisée.                             | Mort et renaissance.                    |
+
+| **Lieu**                 | **Matériau dominant**       | **Détails**                                                                                   | **Symbolique**             |
+|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------|-----------------------------|
+| Port et quartiers pauvres | Calcaire glauconieux brut   | Blocs irréguliers, joints en corail broyé.                                                    | Humilité, lien avec la mer. |
+| Marché et guildes         | Calcaire poli + cuivre      | Portails renforcés de cuivre contre les sorts.                                                | Prospérité et artisanat.    |
+| Temples et bibliothèques  | Calcaire + aventurine       | Vitraux en quartz vert filtrant une lumière aquatique.                                        | Savoir et spiritualité.     |
+| Palais royal              | Marbre vert + jade          | Piliers en monolithes de jade, trône taillé dans un bloc unique.                              | Pouvoir absolu.             |
+| Tour des Mages            | Calcaire + obsidienne verte | Fenêtres en cristaux de prase, obsidienne anti-sorts.                                         | Secret et défense.          |
+| Nécropole                 | Pierre de Vers (vert foncé) | Tombes scellées à la résine de pin fossilisée.                                                | Mort et renaissance.        |
+
 
 ---
 
@@ -74,7 +75,6 @@ type: ville
 - **Ponton royal** :
   - Quai privé en **bois pétriifié vert**, voiles des navires en **algues filées**.
 
----
 
 ## **4. Défis et mystères architecturaux**
 - **Érosion magique** :
@@ -85,28 +85,18 @@ type: ville
 - **"Sang de la Cité"** :
   - Veine de **chrysocolla** sous les remparts : si brisée, la magie protectrice s’éteint.
 
----
 
 ## **5. Éléments fantastiques**
-| **Élément**       | **Description**                                                                 | **Rôle**                                                                 |
-|--------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| Fontaines          | Eau vert émeraude (chargée en minéraux), interdite aux étrangers.             | Guérit les maladies de peau.                                            |
-| Rues               | Pavées de galets verts disposés en motifs de vagues.                          | Traces lumineuses des voleurs.                                          |
-| Égouts             | Tunnels habités par des **crabes géants** domestiqués.                       | Nettoyage et défense.                                                   |
-| Phare              | Tour en cristal de béryl, lumière verte visible à 20 lieues.                  | Guide les navires, aveugle les ennemis en cas de siège.                |
-| Gargouilles        | En forme de **raies mantas**, crachant de l’eau bénite.                      | S’animent pendant les tempêtes.                                         |
 
----
+| **Élément**   | **Description**                                                             | **Rôle**                                            |
+|---------------|-----------------------------------------------------------------------------|-----------------------------------------------------|
+| Fontaines     | Eau vert émeraude (chargée en minéraux), interdite aux étrangers.           | Guérit les maladies de peau.                        |
+| Rues          | Pavées de galets verts disposés en motifs de vagues.                        | Traces lumineuses des voleurs.                      |
+| Égouts        | Tunnels habités par des crabes géants domestiqués.                         | Nettoyage et défense.                               |
+| Phare         | Tour en cristal de béryl, lumière verte visible à 20 lieues.                | Guide les navires, aveugle les ennemis en cas de siège. |
+| Gargouilles   | En forme de raies mantas, crachant de l’eau bénite.                        | S’animent pendant les tempêtes.                     |
+                                    |
 
-## **6. Conflits et enjeux narratifs**
-- **Ressources convoitées** :
-  - **Nains** : Veulent le marbre pour forger des armures indestructibles.
-  - **Pirates** : Cherchent la **Pierre de Lune verte** (contrôle des marées).
-- **Malédiction** :
-  - Tous les 100 ans, la cité **verdit** : bâtiments poussent, rues rétrécissent, habitants se pétrifient.
-- **Quêtes possibles** :
-  - Trouver la **source de la couleur verte** (artefact ou arbre-monde sous-marin).
-  - Briser la malédiction des **statues de glauconie** (habitants transformés).
 
 ---
 **Devise** :
