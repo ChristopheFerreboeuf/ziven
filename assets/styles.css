@@ -122,8 +122,12 @@ br.clear {
 }
 .menu > li{ position:relative; }
 .menu > li > a{
-  display:inline-block; padding:.5em .75em; border-radius:.375rem;
-  color: var(--hdr-txt); text-decoration:none; font-weight:600;
+  display:inline-block; 
+  padding:.5em .75em; 
+  border-radius:.375rem;
+  color: var(--hdr-txt); 
+  text-decoration:none; 
+  font-weight:600;
 }
 .menu > li > a:hover,
 .menu > li > a:focus-visible{
@@ -134,12 +138,14 @@ br.clear {
 
 /* Sous-menus */
 .submenu{
-  position:absolute; left:0; top:100%;
+  position:absolute;
+   left:0;
+   top:100%;
   min-width: 220px;
   background: var(--submenu-bg);
   border: 1px solid var(--submenu-bd);
   border-radius: .5rem;
-  padding:.5em; margin-top:.25em;
+  padding:.5em;
   list-style:none;
   display:none; z-index: 20;
   box-shadow: 0 8px 20px rgba(0,0,0,.35);
