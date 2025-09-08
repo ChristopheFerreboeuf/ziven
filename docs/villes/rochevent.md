@@ -1,3 +1,10 @@
+---
+title: Rochevent
+layout: default
+category: villes
+region: Khazal
+---
+
 # Rochevent
 
 <a href="../../images/rochevent.png" class="glightbox right" data-gallery="khazal"

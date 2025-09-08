@@ -1,3 +1,10 @@
+---
+title: Khareb
+layout: default
+category: villes
+region: Khazal
+---
+
 # Khareb – Carrefour des Steppes
 
 **Résumé :** Ville-étape des caravanes. Chevaux rapides, arènes d’adresse, marchés d’épices.

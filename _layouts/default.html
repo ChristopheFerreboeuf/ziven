@@ -8,6 +8,26 @@
     <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}">
 </head>
 <body>
+    <header>
+  <nav>
+<ul>
+  {% assign cats = "royaumes,villes,regions,fleuves,lieux,factions" | split: "," %}
+  {% for cat in cats %}
+    <li>
+      {{ cat | capitalize }}
+      <ul>
+        {% assign pages_in_cat = site.pages | where: "category", cat | sort: "title" %}
+        {% for p in pages_in_cat %}
+          <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </li>
+  {% endfor %}
+</ul>
+
+  </nav>
+</header>
+
     <main>
         {{ content }}
     </main>

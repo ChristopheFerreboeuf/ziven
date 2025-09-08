@@ -1,3 +1,9 @@
+---
+title: Khazal
+layout: default
+category: regions
+---
+
 # Khazal
 
 ## Géographie
