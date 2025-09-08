@@ -20,7 +20,9 @@ Valcalme est considéré comme le pays le plus prospère et le plus paisible de 
 - Culte d’**Istus**, déesse du destin, au centre des pèlerinages annuels vers le temple d’Istus.  
 
 ## Points d’intérêt  
-<img src="../../images/temple-istus.png" alt="Temple d'Istus" style="float: right; margin: 10px; width: 300px;" />
+<a href="../../images/temple-istus.png" class="glightbox right">
+  <img src="../../images/temple-istus.png" alt="Temple d'Istus" />
+</a>
 
 - **Hroldar** — Capitale située à l’embouchure de l’Aldéra.  
 - **Temple d’Istus** (voir illustration) — Immense sanctuaire en marbre blanc, au pied du Voile d’Aldéra. Les colonnes maintiennent le toit mais le temple n'a pas de mur pour montrer que tous sont bienvenus.  

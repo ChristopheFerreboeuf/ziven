@@ -1,6 +1,8 @@
 # Rochevent
 
-<img src="../../images/rochevent.png" alt="Rochevent" style="float: right; margin: 10px; width: 500px;" />
+<a href="../../images/rochevent.png" class="glightbox right">
+  <img src="../../images/rochevent.png" alt="Rochevent"/>
+</a>
 
 Petit village du [royaume de Khazal](../royaumes/khazal.md) accroché aux pentes d’une colline qui surplombe le plateau d’Onalpita, **Rochevent** vit au rythme de sa carrière de marbre blanc, réputée dans tout Ziven. Situé à une quarantaine de kilomètres des **Collines de l’Écho**, le village est dominé par le **manoir d’Outremont**, résidence ancestrale de Lord Edgar.  
 

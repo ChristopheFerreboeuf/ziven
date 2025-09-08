@@ -18,7 +18,9 @@ Au nord-ouest, la [tour d’Oïdon](../lieux/tour-oidon.md) surplombe les falais
 
 Au sud, les terres se figent en plaines gelées, surveillées par la cité-campement de [Diular](../villes/diular.md), dernier rempart contre les créatures et les jeunes dragons qui descendent de la banquise.
 
-![Carte de Khazal](../../images/Khazal.jpg)
+<a href="../../images/Khazal.jpg" class="glightbox" data-gallery="khazal">
+  <img src="../../images/Khazal.jpg" alt="Carte de Khazal" />
+</a>
 
 
 ## Villes principales
