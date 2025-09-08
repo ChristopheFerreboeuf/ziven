@@ -54,16 +54,6 @@
       </li>
 
       <li class="has-sub">
-        <a href="{{ '/docs/lieux/' | relative_url }}" aria-haspopup="true" aria-expanded="false">Lieux</a>
-        <ul class="submenu">
-          {% assign pages = site.pages | where: "category", "lieux" | sort: "title" %}
-          {% for p in pages %}
-            <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
-          {% endfor %}
-        </ul>
-      </li>
-
-      <li class="has-sub">
         <a href="{{ '/docs/factions/' | relative_url }}" aria-haspopup="true" aria-expanded="false">Factions</a>
         <ul class="submenu">
           {% assign pages = site.pages | where: "category", "factions" | sort: "title" %}
