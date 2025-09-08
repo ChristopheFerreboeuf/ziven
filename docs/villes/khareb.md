@@ -2,7 +2,7 @@
 title: Khareb
 layout: default
 category: villes
-region: Khazal
+royaume: Khazal
 ---
 
 # Khareb – Carrefour des Steppes

@@ -1,3 +1,8 @@
+---
+title: Royaume de Siquimes
+layout: default
+category: royaumes
+---
 # Royaume de Siquimes  
 **Type** : Dynastie ancienne et diplomatique  
 

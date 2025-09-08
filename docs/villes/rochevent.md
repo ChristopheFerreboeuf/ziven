@@ -2,9 +2,8 @@
 title: Rochevent
 layout: default
 category: villes
-region: Khazal
+royaume: Khazal
 ---
-
 # Rochevent
 
 <a href="../../images/rochevent.png" class="glightbox right" data-gallery="khazal"

@@ -1,3 +1,8 @@
+---
+title: Les Douze Familles de Ternil
+layout: default
+category: factions
+---
 # Les Douze Familles de Ternil
 
 Le pouvoir de la cité-état de **Ternil** est détenu par la **Grande Guilde**, composée des **douze familles marchandes**.  

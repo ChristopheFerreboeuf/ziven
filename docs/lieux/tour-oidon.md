@@ -1,3 +1,8 @@
+---
+title: La Tour d’Oïdon
+layout: default
+category: lieux
+---
 # La Tour d’Oïdon
 
 **Résumé :** Tour frontalière dressée sur les falaises au N‑O. Vigie stratégique entre Khazal et Valcalme.

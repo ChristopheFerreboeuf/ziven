@@ -1,9 +1,8 @@
 ---
 title: Khazal
 layout: default
-category: regions
+category: royaumes
 ---
-
 # Khazal
 
 ## Géographie

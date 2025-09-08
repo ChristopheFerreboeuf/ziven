@@ -1,3 +1,8 @@
+---
+title: Edravorn
+layout: default
+category: royaumes
+---
 # Edravorn
 
 **Type :** Territoire tribal (sans roi)  

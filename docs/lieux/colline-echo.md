@@ -1,3 +1,8 @@
+---
+title: Les Collines de l’Écho
+layout: default
+category: lieux
+---
 # Les Collines de l’Écho
 
 **Résumé :** Relief ondulant où le vent porte les voix. Tunnels naturels et grottes servent d’abri aux pillards et bêtes étranges.

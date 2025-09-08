@@ -1,9 +1,8 @@
 ---
 title: Valcalme
 layout: default
-category: regions
+category: royaumes
 ---
-
 # Valcalme 
 **Type :** Monarchie  
 

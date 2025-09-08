@@ -1,3 +1,8 @@
+---
+title: Cité-État de Grimstad
+layout: default
+category: royaumes
+---
 # Cité-État de Grimstad  
 
 **Type** : République ouvrière maritime  

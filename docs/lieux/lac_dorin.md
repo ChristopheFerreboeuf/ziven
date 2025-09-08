@@ -1,3 +1,8 @@
+---
+title: Le Lac Dorin
+layout: default
+category: lieux
+---
 # Le Lac Dorin
 
 **Résumé :** Cœur bleu de Khazal, le lac soutient pêche, commerce et rites. Trois villages – Bordulac, Mornavel, Néril – en jalonnent les rives.

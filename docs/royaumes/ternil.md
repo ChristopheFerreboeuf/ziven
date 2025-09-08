@@ -1,3 +1,8 @@
+---
+title: Ternil
+layout: default
+category: royaumes
+---
 # Ternil
 
 Cité-état commerçante de l’ouest de Ziven, qui exerce son autorité sur **[Morh-Khaz](../villes/morh-khaz.md)** et plusieurs localités environnantes.  

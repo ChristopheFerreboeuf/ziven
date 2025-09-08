@@ -1,3 +1,8 @@
+---
+title: La Forêt d’Idgar
+layout: default
+category: lieux
+---
 # La Forêt d’Idgar
 
 **Résumé :** Grande forêt au sud du lac Dorin, s’étirant jusqu’au permafrost. Refuge d’esprits anciens, chasse difficile, pistes traîtresses.

@@ -1,3 +1,8 @@
+---
+title: Royaume de Skjoldyr
+layout: default
+category: royaumes
+---
 # Royaume de Skjoldyr  
 **Type** : Royaume gouverné par une guilde de magiciens et ensorceleurs  
 

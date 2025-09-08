@@ -1,3 +1,8 @@
+---
+title: L’Ancienne Tour d’Ocdon
+layout: default
+category: lieux
+---
 # L’Ancienne Tour d’Ocdon
 
 **Résumé :** Ruines au sud de la ligne des falaises. Abandonnée par manque de moyens, repaire d’ombres et de souvenirs.

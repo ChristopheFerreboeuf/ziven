@@ -1,3 +1,8 @@
+---
+title: La Mine Naine de Négovar
+layout: default
+category: lieux
+---
 # La Mine Naine de Négovar
 
 **Résumé :** Réseau souterrain tenu par des clans nains. Métaux rares et gemmes, discipline stricte et commerce via Diular.
