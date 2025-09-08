@@ -79,6 +79,15 @@ br.clear {
   clear: both;
 }
 
+.glightbox-container .gdesc-inner {
+  font-family: "Garamond", "Georgia", serif;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  color: #e0d6c2;       /* texte clair sur fond sombre */
+  text-align: center;
+  padding: 0.5em 1em;
+}
+
 /* Mode clair si choisi par l'utilisateur */
 @media (prefers-color-scheme: light) {
   body {

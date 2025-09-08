@@ -1,15 +1,14 @@
 # Aldéra
 
 ## Origine et parcours
-<a href="../../images/temple-istus.png" class="glightbox right">
+<a href="../../images/temple-istus.png" class="glightbox right" data-gallery="Valcalme"
+   data-title="Temple d’Istus, lieu sacré des fidèles de la déesse du destin">
   <img src="../../images/temple-istus.png" alt="Temple d'Istus" />
 </a>
 - **Source :** prend naissance dans les **Collines de l’Écho**, au cœur du **plateau d’Onalpita**.  
 - **Chute majeure :** le **Voile d’Aldéra**, une cascade vertigineuse de près de 1000 mètres qui gronde comme un tonnerre perpétuel. Outre les curieux qui viennent voir l'immense chute d'eau, il y a de nombreux pèlerins qui viennent au **temple d'Istus** qui se situe au pied de l'immense chute d'eau de près de 1000m. La hauteur de chute fait qu'une brume recouvre la vallée depuis le temple d'Istus jusqu'à la haute vallée de l'Aldéra dans le canyon par lequel passait le fleuve avant le grand temblement.
 - **Trajet :** serpente ensuite paisiblement à travers le **Royaume de Valcalme**.  
 - **Embouchure :** se jette dans l’océan à la capitale **Hroldar**, bâtie autour de son delta. 
-
-<br style="clear: both">
 
 ## Importance
 - **Économique :** véritable artère de Valcalme. Le fleuve alimente moulins, cultures, commerce fluvial et pêche.  

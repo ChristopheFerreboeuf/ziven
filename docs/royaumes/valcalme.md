@@ -20,7 +20,8 @@ Valcalme est considéré comme le pays le plus prospère et le plus paisible de 
 - Culte d’**Istus**, déesse du destin, au centre des pèlerinages annuels vers le temple d’Istus.  
 
 ## Points d’intérêt  
-<a href="../../images/temple-istus.png" class="glightbox right">
+<a href="../../images/temple-istus.png" class="glightbox right" data-gallery="Valcalme"
+   data-title="Temple d’Istus, lieu sacré des fidèles de la déesse du destin">
   <img src="../../images/temple-istus.png" alt="Temple d'Istus" />
 </a>
 
@@ -28,8 +29,6 @@ Valcalme est considéré comme le pays le plus prospère et le plus paisible de 
 - **Temple d’Istus** (voir illustration) — Immense sanctuaire en marbre blanc, au pied du Voile d’Aldéra. Les colonnes maintiennent le toit mais le temple n'a pas de mur pour montrer que tous sont bienvenus.  
 - **Draemir** — Ville frontière au pied des Falaises du Destin, point d’échanges et de tensions avec Edravorn et Khazal.  
 - **Fjarnest** — Carrefour stratégique et cité-péage contrôlant le trafic fluvial et routier. C'est une ville-péage sur l’Aldéra, dernier point navigable du fleuve. De là part la route qui traverse la vallée de la Modoire, reliant Valcalme à [Siquimes](siquimes.md)
-
-<br style="clear: both">
 
 ## Dynastie régnante  
 La famille **Basmaret**, branche cadette issue de la maison **Siquimes**.  
