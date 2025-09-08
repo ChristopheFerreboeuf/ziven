@@ -8,23 +8,71 @@
     <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}">
 </head>
 <body>
-    <header>
-  <nav>
-<ul>
-  {% assign cats = "royaumes,villes,regions,fleuves,lieux,factions" | split: "," %}
-  {% for cat in cats %}
-    <li>
-      {{ cat | capitalize }}
-      <ul>
-        {% assign pages_in_cat = site.pages | where: "category", cat | sort: "title" %}
-        {% for p in pages_in_cat %}
-          <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </li>
-  {% endfor %}
-</ul>
+<header class="site-header">
+  <nav aria-label="Navigation principale">
+    <ul class="menu">
+      <li><a href="{{ '/' | relative_url }}">Accueil</a></li>
 
+      <li class="has-sub">
+        <a href="{{ '/docs/royaumes/' | relative_url }}" aria-haspopup="true" aria-expanded="false">Royaumes</a>
+        <ul class="submenu">
+          {% assign pages = site.pages | where: "category", "royaumes" | sort: "title" %}
+          {% for p in pages %}
+            <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+
+      <li class="has-sub">
+        <a href="{{ '/docs/regions/' | relative_url }}" aria-haspopup="true" aria-expanded="false">Régions</a>
+        <ul class="submenu">
+          {% assign pages = site.pages | where: "category", "regions" | sort: "title" %}
+          {% for p in pages %}
+            <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+
+      <li class="has-sub">
+        <a href="{{ '/docs/villes/' | relative_url }}" aria-haspopup="true" aria-expanded="false">Villes</a>
+        <ul class="submenu">
+          {% assign pages = site.pages | where: "category", "villes" | sort: "title" %}
+          {% for p in pages %}
+            <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+
+      <li class="has-sub">
+        <a href="{{ '/docs/fleuves/' | relative_url }}" aria-haspopup="true" aria-expanded="false">Fleuves</a>
+        <ul class="submenu">
+          {% assign pages = site.pages | where: "category", "fleuves" | sort: "title" %}
+          {% for p in pages %}
+            <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+
+      <li class="has-sub">
+        <a href="{{ '/docs/lieux/' | relative_url }}" aria-haspopup="true" aria-expanded="false">Lieux</a>
+        <ul class="submenu">
+          {% assign pages = site.pages | where: "category", "lieux" | sort: "title" %}
+          {% for p in pages %}
+            <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+
+      <li class="has-sub">
+        <a href="{{ '/docs/factions/' | relative_url }}" aria-haspopup="true" aria-expanded="false">Factions</a>
+        <ul class="submenu">
+          {% assign pages = site.pages | where: "category", "factions" | sort: "title" %}
+          {% for p in pages %}
+            <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+    </ul>
   </nav>
 </header>
 

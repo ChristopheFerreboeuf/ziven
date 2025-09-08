@@ -87,29 +87,92 @@ br.clear {
   text-align: center;
   padding: 0.5em 1em;
 }
-
-header {
-  background: #1b1a17;
-  padding: 0.5em 1em;
+/* Thème sombre par défaut */
+:root{
+  --hdr-bg: #1b1a17;
+  --hdr-txt: #e0d6c2;
+  --hdr-txt-hover: #f1c40f;
+  --submenu-bg: #26241f;
+  --submenu-bd: #3a372f;
+  --focus-ring: #76e8df;
 }
 
-header nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  gap: 1em;
+@media (prefers-color-scheme: light){
+  :root{
+    --hdr-bg: #fdf6e3;       /* parchemin */
+    --hdr-txt: #2c2a1d;      /* brun foncé */
+    --hdr-txt-hover: #8b3a3a;
+    --submenu-bg: #fffdfa;
+    --submenu-bd: #ded6c6;
+    --focus-ring: #2563eb;
+  }
 }
 
-header nav a {
-  color: #e0d6c2;
-  text-decoration: none;
-  font-weight: 600;
+/* Header */
+.site-header { background: var(--hdr-bg); }
+
+/* Barre principale */
+.menu{
+  list-style:none;
+  margin: 0 auto;         /* marge automatique gauche/droite */
+    padding:.5em 1em;
+  display:flex; gap:.5em; align-items:center;
+    justify-content: center; /* centrage horizontal */
+  max-width: 1200px;       /* limite la largeur si tu veux */
 }
-header nav a:hover {
-  color: #f1c40f;
+.menu > li{ position:relative; }
+.menu > li > a{
+  display:inline-block; padding:.5em .75em; border-radius:.375rem;
+  color: var(--hdr-txt); text-decoration:none; font-weight:600;
+}
+.menu > li > a:hover,
+.menu > li > a:focus-visible{
+  color: var(--hdr-txt-hover);
+  outline: 2px solid transparent; /* évite le reflow */
   text-decoration: underline;
 }
+
+/* Sous-menus */
+.submenu{
+  position:absolute; left:0; top:100%;
+  min-width: 220px;
+  background: var(--submenu-bg);
+  border: 1px solid var(--submenu-bd);
+  border-radius: .5rem;
+  padding:.5em; margin-top:.25em;
+  list-style:none;
+  display:none; z-index: 20;
+  box-shadow: 0 8px 20px rgba(0,0,0,.35);
+}
+.submenu > li > a{
+  display:block; padding:.4em .6em; border-radius:.375rem;
+  color: var(--hdr-txt); text-decoration:none; font-weight:500;
+}
+.submenu > li > a:hover,
+.submenu > li > a:focus-visible{
+  background: rgba(255,255,255,.08);
+  color: var(--hdr-txt-hover);
+  outline: none;
+}
+
+/* Ouvrir au hover ET au focus clavier */
+.has-sub:hover > .submenu,
+.has-sub:focus-within > .submenu{ display:block; }
+
+/* Anneau d'accessibilité au clavier */
+.menu a:focus-visible{
+  outline: 2px solid var(--focus-ring);
+  outline-offset: 2px;
+}
+
+/* Petits écrans : éviter les sous-menus qui sortent de l'écran */
+@media (max-width: 700px){
+  .menu{ flex-wrap: wrap; gap:.25em; }
+  .submenu{ position: static; display:none; margin:.25em 0 0; }
+  .has-sub:hover > .submenu,
+  .has-sub:focus-within > .submenu{ display:block; }
+}
+
 
 
 /* Mode clair si choisi par l'utilisateur */
