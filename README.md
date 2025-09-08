@@ -3,7 +3,10 @@
 Ziven est un sous-continent imaginaire conçu pour le jeu de rôle **Donjons & Dragons**.  
 C’est un monde hostile et contrasté, marqué par ses frontières naturelles, ses peuples divers et ses luttes de pouvoir.
 
-![Ziven](images/Ziven.jpg)
+<a href="{{ '/images/Ziven.jpg' | relative_url }}" class="glightbox">
+  <img src="{{ '/images/Ziven.jpg' | relative_url }}" alt="Ziven" loading="lazy">
+</a>
+
 
 ## Dimensions et frontières
 
@@ -20,7 +23,7 @@ C’est un monde hostile et contrasté, marqué par ses frontières naturelles, 
 ## Répartition des peuples
 
 - **Humains** : majoritaires, présents partout (plaine, ports, villages, ouest frontalier).
-- **Drakkéïdes** : villages proches des nains, dans les Dents du Crépuscule.  
+- **Drakéïdes** : villages proches des nains, dans les Dents du Crépuscule.  
   Respectés pour leur résistance face aux dragons.
 - **Nains** : maîtres des mines et du commerce de métaux, installés dans les montagnes.
 - **Dragons blancs** : prédateurs majeurs, adultes dans les montagnes, jeunes dans la banquise.
