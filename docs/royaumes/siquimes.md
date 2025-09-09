@@ -1,5 +1,5 @@
 ---
-title: Royaume de Siquimes
+title: Siquimes
 layout: default
 category: royaumes
 ---

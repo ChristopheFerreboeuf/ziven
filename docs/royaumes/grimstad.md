@@ -1,10 +1,13 @@
 ---
-title: Cité-État de Grimstad
+title: Grimstad
 layout: default
 category: royaumes
 ---
 # Cité-État de Grimstad  
-
+<a href="../../images/grimstad.png" class="glightbox right" data-gallery="Grimstad"
+   data-title="Grimstad, la cité ouvrière">
+  <img src="../../images/grimstad.png" alt="Vue de Grimstad depuis le chantier naval." />
+</a>
 **Type** : République ouvrière maritime  
 **Richesse principale** : Construction navale  
 

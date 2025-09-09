@@ -1,5 +1,5 @@
 ---
-title: Royaume de Skjoldyr
+title: Skjoldyr
 layout: default
 category: royaumes
 ---

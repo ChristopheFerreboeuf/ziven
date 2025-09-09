@@ -6,6 +6,10 @@ category: royaumes
 
 # Cité-État de Lomirra  
 **Type** : Cité-État maritime (Trois Sœurs ennemies)  
+<a href="../../images/lomirra.png" class="glightbox right" data-gallery="Lomirra"
+   data-title="Lomirra, la cité militare">
+  <img src="../../images/lomirra.png" alt="Lomirra, la forteresse avec le bazar de Goradir" />
+</a>
 
 ## Résumé  
 La plus orientale et la plus militarisée des Trois Sœurs. Sa flotte est la mieux organisée et son arsenal redouté sur toutes les mers de la région. Les intrigues politiques y sont moins sophistiquées qu’à [Dorna](./dorna.md), mais sa puissance martiale compense largement : quand Lomirra agit, c’est souvent par la force.  
