@@ -4,7 +4,13 @@ layout: default
 category: royaumes
 ---
 
+
+<a href="../../images/calmorra.jpg" class="glightbox right" data-gallery="Vaultclos"
+   data-title="Calmorra, la cité pirate">
+  <img src="../../images/calmorra.jpg" alt="Calmorra, son port, son bastion et son palais" />
+</a>
 # Cité-État de Calmorra  
+
 **Type** : Cité portuaire marchande  
 **Position** : La plus occidentale des *Trois Sœurs Ennemies*  
 
