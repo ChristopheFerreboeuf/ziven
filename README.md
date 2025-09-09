@@ -46,6 +46,7 @@ C’est un monde hostile et contrasté, marqué par ses frontières naturelles, 
 - [Siquimes](./docs/royaumes/siquimes.md) — plus vaste royaume du sous-continent. La puissance militaire de la famille Siquimes fait qu'elle gouverne largement la diplomatie.
 - [Vaultclos](./docs/royaumes/vaultclos.md) — royaume côtier, frontalier du massif du nord, riche en mines et en forêts.  
 - [Skjoldyr](./docs/royaumes/skjoldyr.md) - royaume de l'Est, gouverné par les magiciens.  
+- [Tharvell](./docs/royaumes/tharvell.md) - Grand royaume du sud - riche en bois notamment l'Igrodia
 
 #### Cités-états
 - [Ternil](./docs/royaumes/ternil.md) — cité marchande contrôlée par douze familles.  

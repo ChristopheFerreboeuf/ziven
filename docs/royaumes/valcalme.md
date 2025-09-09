@@ -5,6 +5,10 @@ category: royaumes
 ---
 # Valcalme 
 **Type :** Monarchie  
+<a href="../../images/Valcalme-et-Grimstad.jpg" class="glightbox" data-gallery="Valcalme"
+   data-title="Carte de Valcalme et Grimstad">
+  <img src="../../images/Valcalme-et-Grimstad.jpg" alt="Carte de Valcalme et Grimstad" />
+</a>
 
 **Résumé**  
 Valcalme est considéré comme le pays le plus prospère et le plus paisible de Ziven. Sa stabilité interne contraste avec une politique extérieure marquée par des ambitions expansionnistes, qui nourrissent des relations tendues avec ses voisins.  
@@ -16,7 +20,7 @@ Valcalme est considéré comme le pays le plus prospère et le plus paisible de 
 - À l’ouest, les **Collines Pourpres**, vignobles produisant les vins les plus réputés de Ziven.  
 - À l’est, les **Falaises du Destin**, barrière naturelle et zone frontière.  
 - Au sud de la ville de Fjarnest s’étend un **immense marais**, peuplé de crocodiles, basilics et autres créatures redoutables.  
-- Au sud du royaume, **Tharvell**, dont les forêts d’**Igrodia** (conifères géants de 250 m) fournissent un bois exceptionnel pour la construction.  
+- Au sud du royaume, **[Tharvell](tharvell.md)**, dont les forêts d’**Igrodia** (conifères géants de 250 m) fournissent un bois exceptionnel pour la construction.  
 
 ## Culture  
 - Noblesse marchande et raffinée.  
