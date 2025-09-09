@@ -40,3 +40,24 @@ Les Rocheventaux sont principalement des contremaîtres et des gardes. Quelques 
 ## Ambiance
 Rochevent est un village austère et venteux, mais fier de son marbre — « la pierre de Rochevent » est recherchée dans toutes les grandes cités de Ziven.  
 Bien que Lord Edgar y soit considéré comme un personnage influent, son prestige ne dépasse guère les frontières du royaume, ce qui reste pour lui un sujet d’amertume.  
+
+<div class="gallery">
+  <a href="../../images/rochevent-1.png" class="glightbox" data-gallery="Rochevent" 
+     data-title="Rochevent">
+    <img src="../../images/rochevent-1.png" alt="Rochevent"/>
+  </a>
+  <a href="../../images/rochevent-2.png" class="glightbox" data-gallery="Rochevent" 
+     data-title="Rochevent">
+    <img src="../../images/rochevent-2.png" alt="Rochevent"/>
+  </a>
+  <a href="../../images/rochevent-3.png" class="glightbox" data-gallery="Rochevent" 
+     data-title="Rochevent">
+    <img src="../../images/rochevent-3.png" alt="Rochevent vue de loin"/>
+  </a>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const lightbox = GLightbox({ selector: '.glightbox' });
+});
+</script>
