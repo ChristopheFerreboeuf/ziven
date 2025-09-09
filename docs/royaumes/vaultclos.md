@@ -20,25 +20,25 @@ category: royaumes
 ---
 
 ## Régions naturelles
-- **Plaine côtière du nord**  
-  - Sol fertile grâce à l’influence océanique.  
-  - Culture de fruits et légumes exigeant chaleur et humidité.  
-  - Climat doux : hivers tempérés, étés modérés.  
+### Plaine côtière du nord 
+- Sol fertile grâce à l’influence océanique.  
+- Culture de fruits et légumes exigeant chaleur et humidité.  
+- Climat doux : hivers tempérés, étés modérés.  
 
-- **Forêt de Morness** (au sud de Verdantis)  
-  - Forêt humide et légèrement marécageuse.  
-  - Abritant une faune dense et parfois dangereuse pour les imprudents.  
-  - Surnommée *la forêt des larmes* à cause de la rosée qui goutte des arbres comme des pleurs.  
+### Forêt de Morness (au sud de Verdantis)  
+- Forêt humide et légèrement marécageuse.  
+- Abritant une faune dense et parfois dangereuse pour les imprudents.  
+- Surnommée *la forêt des larmes* à cause de la rosée qui goutte des arbres comme des pleurs.  
 
-- **Massif du Nord**  
-  - Chaîne de collines peu élevée mais riche en minerais, surtout en fer.  
-  - Les habitants n’ont pas trouvé mieux que ce nom très simple, preuve de leur pragmatisme.  
-  - Centre industriel : Brennar, cité minière.  
+### Massif du Nord
+- Chaîne de collines peu élevée mais riche en minerais, surtout en fer.  
+- Les habitants n’ont pas trouvé mieux que ce nom très simple, preuve de leur pragmatisme.  
+- Centre industriel : Brennar, cité minière.  
 
-- **Forêt de Valdombre** (à l’ouest, vers Galordis)  
-  - Dense et ancienne, considérée comme une frontière naturelle entre la côte et la plaine centrale.  
-  - Sur les routes officielles, le passage est sûr, mais hors des sentiers se trouvent loups noirs et bandits.  
-  - Lieu de légendes autour de menhirs engloutis par la végétation.  
+### Forêt de Valdombre (à l’ouest, vers Galordis)  
+- Dense et ancienne, considérée comme une frontière naturelle entre la côte et la plaine centrale.  
+- Sur les routes officielles, le passage est sûr, mais hors des sentiers se trouvent loups noirs et bandits.  
+- Lieu de légendes autour de menhirs engloutis par la végétation.  
 
 ---
 

@@ -15,8 +15,8 @@ type: ville
 ### Le calcaire glauconieux : l’âme de Verdantis
 - **Origine** :
   Bâtie sur un ancien récif fossile, la ville doit sa teinte unique à la **glauconie**, un minéral vert formé il y a des millions d’années sous les mers. Selon la légende, les vagues enchantées des premiers druides marins auraient **teinté la pierre lors de la Grande Marée Enchantée**.
-  - **Couleur** : Vert pâle à gris-vert, **scintillant** sous le soleil (inclusions de mica/pyrite), **bleuté** sous la lune (bioluminescence résiduelle).
-  - **Texture** : Granulaire, rugueuse, propice à la pousse de **lichens** et de **coquillages**.
+- **Couleur** : Vert pâle à gris-vert, **scintillant** sous le soleil (inclusions de mica/pyrite), **bleuté** sous la lune (bioluminescence résiduelle).
+- **Texture** : Granulaire, rugueuse, propice à la pousse de **lichens** et de **coquillages**.
 
 - **Quartiers populaires** : Blocs bruts, joints comblés de corail broyé.
 - **Bâtiments publics** : Pierre polie, incrustée de **cuivre vert-de-gris** (protection contre la magie noire).

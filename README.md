@@ -23,16 +23,17 @@ C’est un monde hostile et contrasté, marqué par ses frontières naturelles, 
 
 ---
 
-## Répartition des peuples
+## Répartition des espèces
 
 - **Humains** : majoritaires, présents partout (plaine, ports, villages, ouest frontalier).
 - **Drakéïdes** : villages proches des nains, dans les Dents du Crépuscule.  
   Respectés pour leur résistance face aux dragons.
 - **Nains** : maîtres des mines et du commerce de métaux, installés dans les montagnes.
+- **Goliaths** : présent dans les carrières des différents massifs de Ziven mais également dans les grandes villes et dans les exploitations forestières d'Igordia en Eligordia.
 - **Dragons blancs** : prédateurs majeurs, adultes dans les montagnes, jeunes dans la banquise.
 - **Elfes (non endémiques)** : riches marchands et érudits, surtout dans les ports.  
   Exclus de la noblesse, mais influents.
-- **Tieffelins (non endémiques)** : concentrés dans les ports du nord, mais pauvres et rejetés.
+- **Tieffelins (non endémiques)** : principalement concentrés dans les ports du nord, mais pauvres et rejetés. Sauf dans la ville magicienne d'Arkhazem et au sein de certaines tribus d'Edavorn.
 
 ---
 
@@ -40,7 +41,7 @@ C’est un monde hostile et contrasté, marqué par ses frontières naturelles, 
 
 ### Royaumes
 - [Khazal](./docs/royaumes/khazal.md) — royaume des steppes, organisé autour du lac Dorin et menacé par les dragons du sud.  
-- [Edravorn](./docs/royaumes/edravorn.md) — vaste territoire tribal, sans roi, où les tribus répondent à l’appel en cas de menace.  
+- [Edravorn](./docs/royaumes/edravorn.md) — vaste territoire tribal, sans roi, où les tribus répondent à l’appel en cas de menace. 
 - [Valcalme](./docs/royaumes/valcalme.md) — royaume prospère du nord, qui contrôle l’embouchure de l’Aldéra et le commerce maritime.  
 - [Siquimes](./docs/royaumes/siquimes.md) — plus vaste royaume du sous-continent. La puissance militaire de la famille Siquimes fait qu'elle gouverne largement la diplomatie.
 - [Vaultclos](./docs/royaumes/vaultclos.md) — royaume côtier, frontalier du massif du nord, riche en mines et en forêts.  

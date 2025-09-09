@@ -57,3 +57,22 @@ Au sud, les terres se figent en plaines gelées, surveillées par la cité-campe
 - Les **intrigues des seigneurs** ajoutent à l’instabilité politique.  
 - La dépendance au commerce du lac Dorin et du fleuve Aldéra rend le royaume vulnérable aux pressions extérieures de Valcalme.  
 - Les **activités volcaniques de Négovar** représentent un risque naturel, mais aussi une convoitise stratégique à cause des richesses minières.  
+
+<div class="gallery">
+  <a href="../../images/khareb.png" class="glightbox" data-gallery="vaultclos" 
+     data-title="Ville de Khareb" 
+     data-description="La guilde des cavaliers au centre de la ville, le cirque, l'hippodrome et la flèche des steppes.">
+    <img src="../../images/khareb.png" alt="Ville de Khareb"/>
+  </a>
+
+  <a href="../../images/rochevent.png" class="glightbox" data-gallery="vaultclos" 
+     data-title="Rochevent">
+    <img src="../../images/rochevent.png" alt="Rochevent"/>
+  </a>
+</div>
+
+<script>
+  const lightbox = GLightbox({
+    selector: '.glightbox'
+  });
+</script>
