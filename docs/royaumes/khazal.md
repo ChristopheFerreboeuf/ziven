@@ -72,7 +72,8 @@ Au sud, les terres se figent en plaines gelées, surveillées par la cité-campe
 </div>
 
 <script>
-  const lightbox = GLightbox({
-    selector: '.glightbox'
-  });
+document.addEventListener("DOMContentLoaded", () => {
+  const lightbox = GLightbox({ selector: '.glightbox' });
+});
 </script>
+
