@@ -6,20 +6,20 @@ category: royaumes
 
 # Région de Vaultclos
 
-## 1. Géographie générale
+## Géographie générale
 - Située au pied des **Dents du Crépuscule**, s’étendant de l’océan au nord jusqu’au territoire de la cité-état de **Ternil** au sud.  
 - Contraste marqué entre la côte fertile, les forêts humides et le **Massif du Nord**, riche en minerais.  
 
 ---
 
-## 2. Capitales et villes majeures
+## Capitale et villes majeures
 - **[Verdantis](../villes/verdantis.md)** — Capitale, la *Cité d’Émeraude*, bâtie en pierres vertes, réputée pour son éclat minéral et ses palais.  
-- **Brennar** — Cité ouvrière et minière du **Massif du Nord**, connue pour la qualité exceptionnelle de son fer, recherché par forgerons et armuriers.  
+- **Brennar** — Cité ouvrière et minière du **[Massif du Nord](../regions/massif_du_nord.md)**, connue pour la qualité exceptionnelle de son fer, recherché par forgerons et armuriers.  
 - **Galordis** — Ville importante de la grande plaine centrale, carrefour entre Vaultclos et les régions de l’intérieur.  
 
 ---
 
-## 3. Régions naturelles
+## Régions naturelles
 - **Plaine côtière du nord**  
   - Sol fertile grâce à l’influence océanique.  
   - Culture de fruits et légumes exigeant chaleur et humidité.  
@@ -42,7 +42,7 @@ category: royaumes
 
 ---
 
-## 4. Ressources et enjeux
+## Ressources et enjeux
 - **Fer du Massif du Nord** : réputé pour sa solidité, commerce florissant avec les royaumes voisins.  
 - **Pierre verte de Verdantis** : convoitée pour l’architecture et la magie.  
 - **Routes forestières** : passage obligé vers Ternil et la plaine centrale, souvent sujet à brigandage.  
@@ -55,3 +55,13 @@ category: royaumes
 
 **Devise régionale (populaire)** :  
 *"Le fer, la pierre et la mer."*
+
+## Gallerie
+
+<div class="gallery">
+  <a href="../../images/verdantis.jpg" class="glightbox" data-gallery="vaultclos"><img src="../../images/verdantis.jpg" alt="Verdantis, son palais qui surplombe la mer" /></a>
+</div>
+
+<script>
+  const lightbox = GLightbox({ selector: '.glightbox' });
+</script>

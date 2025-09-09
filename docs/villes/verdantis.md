@@ -7,6 +7,10 @@ type: ville
 
 # Verdantis, la Cité d'Émeraude
 
+<a href="../../images/verdantis.jpg" class="glightbox right" data-gallery="Vaultclos"
+   data-title="Verdantis, la cité Emeraude">
+  <img src="../../images/verdantis.jpg" alt="Verdantis, son palais qui surplombe la mer" />
+</a>
 ## Fondements géologiques et esthétiques
 ### Le calcaire glauconieux : l’âme de Verdantis
 - **Origine** :

@@ -6,6 +6,10 @@ category: royaumes
 
 # Cité-État de Dorna  
 **Type** : République marchande  
+<a href="../../images/dorna.png" class="glightbox right" data-gallery="Vaultclos"
+   data-title="Dorna, la cité de Granit Rose">
+  <img src="../../images/dorna.png" alt="Dorna, sa forteresse protégeant le port" />
+</a>
 
 ## Résumé  
 Dorna est la cité du milieu des Trois Sœurs Ennemies, réputée pour son **raffinement vénéneux**. Ses banquets sont célèbres et redoutés : on en sort rarement sans malaise. Le luxe s’y mêle à la menace voilée, chaque sourire pouvant cacher une lame ou une coupe empoisonnée.  
