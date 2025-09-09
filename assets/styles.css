@@ -207,3 +207,29 @@ br.clear {
     color: #8b3a3a; /* rouge sombre */
   }
 }
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
+  gap: 12px;
+}
+
+.gallery a {
+  display: block;
+  overflow: hidden;
+  border-radius: 6px;
+}
+
+.gallery img {
+  width: 100%;
+  height: 250px;     /* hauteur fixe */
+  object-fit: cover; /* recadre portrait/paysage */
+  border-radius: 6px;
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+/* Effet au survol */
+.gallery a:hover img {
+  transform: scale(1.05);
+  filter: brightness(0.9);
+}
