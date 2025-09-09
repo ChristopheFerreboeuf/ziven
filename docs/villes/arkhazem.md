@@ -6,7 +6,10 @@ type: ville
 ---
 
 # Arkhazem, la Ville-Pont
-
+<a href="../../images/arkhazem.png" class="glightbox right" data-gallery="Khazal"
+   data-title="Arkhazem, ville de la magie et des arts">
+  <img src="../../images/arkhazem.png" alt="Temple d'Istus" />
+</a>
 ## **1. Situation et fondements**
 - **Type** : Capitale du [Royaume de Skjoldyr](../royaumes/skjoldyr.md)  
 - **Localisation** : Enjambant le canyon de l’[Imgodir](../fleuves/imgodir.md), à plus de 1000 m de hauteur.  
