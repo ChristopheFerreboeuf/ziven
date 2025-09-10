@@ -29,7 +29,7 @@ C’est un monde hostile et contrasté, marqué par ses frontières naturelles, 
 - **Drakéïdes** : villages proches des nains, dans les Dents du Crépuscule.  
   Respectés pour leur résistance face aux dragons.
 - **Nains** : maîtres des mines et du commerce de métaux, installés dans les montagnes.
-- **Goliaths** : présent dans les carrières des différents massifs de Ziven mais également dans les grandes villes et dans les exploitations forestières d'Igordia en Eligordia.
+- **Goliaths** : présent dans les carrières des différents massifs de Ziven mais également dans les grandes villes et dans les exploitations forestières d'Igrodia en Eligrodian.
 - **Dragons blancs** : prédateurs majeurs, adultes dans les montagnes, jeunes dans la banquise.
 - **Elfes (non endémiques)** : riches marchands et érudits, surtout dans les ports.  
   Exclus de la noblesse, mais influents.
