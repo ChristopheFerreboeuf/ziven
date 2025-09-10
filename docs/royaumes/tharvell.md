@@ -24,6 +24,10 @@ type: royaume
   - Cette source est gardée par les **druides**, qui veillent au respect du rite.  
 
 ## Capitale — Skjorren  
+<a href="../../images/skjorren.png" class="glightbox right" data-gallery="Khazrund"
+data-title="Skjorren avec son parc sacré">
+<img src="../../images/skjorren.png" alt="Skjorren avec son parc central"/>
+</a>
 - Ville construite **autour d’un vaste parc sacré** où pousse un Igrodia millénaire, nommé **Idingrodia**.  
 - **Idingrodia** :  
   - Âge estimé : **1500 ans** (soit seulement un dixième de sa durée de vie).  
