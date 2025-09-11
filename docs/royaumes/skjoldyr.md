@@ -13,6 +13,10 @@ category: royaumes
   Arkhazem est aussi une ville académique, abritant l’école de musique de la grande guilde des bardes.  
 
 ## Géographie  
+<a href="../../images/cap-poorv.png" class="glightbox right" data-gallery="Tharvell"
+data-title="Le fort du cap Poorv">
+<img src="../../images/cap-poorv.png" alt="Le fort du cap Poorv à l'extrémité orientale du sous-continent"/>
+</a>
 - **[Cap Poorv](../lieux/fort_de_poorv.md)** — Extrémité orientale du sous-continent, battue par un vent austral glacial et permanent. Une forteresse colossale y abrite un contingent commun de tous les royaumes.  
 - **Mine de Poorv** — Immense exploitation charbonnière proche du cap Poorv, flanquée d’un bagne. Le charbon y est acheminé vers le reste du sous-continent par **Poorvichahar**, ville caravanière située à deux jours de marche.  
 - **Vallée de l’Imgodir** — Chaude et souvent noyée de brume, en contraste avec les hauts plateaux glacés d’Onalpita qui la bordent.  

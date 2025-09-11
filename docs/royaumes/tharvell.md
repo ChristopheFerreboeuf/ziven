@@ -10,6 +10,10 @@ type: royaume
 **Type** : Royaume forestier.  
 
 ## Situation générale  
+<a href="../../images/ilagdir.png" class="glightbox right" data-gallery="Tharvell"
+data-title="Ilagdir, source sacrée">
+<img src="../../images/ilagdir.png" alt="La source d'Ilagdir dans laquelle les bûcherons puisent l'eau pour offrir avant d'abattre un arbre."/>
+</a>
 - Royaume situé aux abords des **Dents du Crépuscule**, sans mines d’ampleur, mais riche en ressources naturelles.  
 - Deux richesses principales :  
   - **Pierres précieuses** issues du commerce avec les drakéides de Thuldrem.  
@@ -20,11 +24,11 @@ type: royaume
 - **Bois d’Igrodia** :  
   - Très recherché pour la **construction navale** (notamment les chantiers de [Grimstad](../villes/grimstad.md)), mais aussi pour l’architecture monumentale.  
   - Transport complexe et coûteux, réservé aux clients les plus puissants.  
-  - **Rituel de coupe** : avant d’abattre un arbre, les bûcherons doivent apporter **100 litres d’eau** puisée à la **source sacrée d’Ilagdir**, située à plus de 500 km au pied du glacier du même nom.  
+  - **Rituel de coupe** : avant d’abattre un arbre, les bûcherons doivent apporter à Idingrodia **100 litres d’eau** puisée à la **source sacrée d’Ilagdir**, située à plus de 500 km au pied du glacier du même nom.  
   - Cette source est gardée par les **druides**, qui veillent au respect du rite.  
 
 ## Capitale — Skjorren  
-<a href="../../images/skjorren.png" class="glightbox right" data-gallery="Khazrund"
+<a href="../../images/skjorren.png" class="glightbox right" data-gallery="Tharvell"
 data-title="Skjorren avec son parc sacré">
 <img src="../../images/skjorren.png" alt="Skjorren avec son parc central"/>
 </a>
