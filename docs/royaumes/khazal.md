@@ -59,16 +59,26 @@ Au sud, les terres se figent en plaines gelées, surveillées par la cité-campe
 - Les **activités volcaniques de Négovar** représentent un risque naturel, mais aussi une convoitise stratégique à cause des richesses minières.  
 
 <div class="gallery">
-  <a href="../../images/khareb.png" class="glightbox" data-gallery="vaultclos" 
+  <a href="../../images/khareb.png" class="glightbox" data-gallery="Khazal" 
      data-title="Ville de Khareb" 
      data-description="La guilde des cavaliers au centre de la ville, le cirque, l'hippodrome et la flèche des steppes.">
     <img src="../../images/khareb.png" alt="Ville de Khareb"/>
   </a>
 
-  <a href="../../images/rochevent.png" class="glightbox" data-gallery="vaultclos" 
-     data-title="Rochevent">
-    <img src="../../images/rochevent.png" alt="Rochevent"/>
-  </a>
+<a href="../../images/rochevent.png" class="glightbox" data-gallery="Khazal"
+data-title="Rochevent">
+<img src="../../images/rochevent.png" alt="Rochevent"/>
+</a>
+
+<a href="../../images/Negovar.png" class="glightbox" data-gallery="Khazal"
+data-title="Negovar">
+<img src="../../images/Negovar.png" alt="Negovar"/>
+</a>
+
+<a href="../../images/Negovarund.png" class="glightbox" data-gallery="Khazal"
+data-title="Negovarund">
+<img src="../../images/Negovarund.png" alt="Negovarund"/>
+</a>
 </div>
 
 <script>

@@ -7,6 +7,8 @@ type: ville
 
 # Verdantis, la Cité d'Émeraude
 
+Verdantis est la capitale du royaume de [Vaultclos](../royaumes/vaultclos.md), située sur une péninsule rocheuse au bord de la mer. Surnommée la "Cité d'Émeraude" en raison de la couleur unique de ses bâtiments, Verdantis est un joyau architectural et culturel, réputé pour son harmonie avec la nature environnante.
+
 <a href="../../images/verdantis.jpg" class="glightbox right" data-gallery="Vaultclos"
    data-title="Verdantis, la cité Emeraude">
   <img src="../../images/verdantis.jpg" alt="Verdantis, son palais qui surplombe la mer" />

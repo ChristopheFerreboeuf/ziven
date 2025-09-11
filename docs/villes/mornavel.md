@@ -1,5 +1,5 @@
 ---
-title: Mornavel – Le Voile des Herbes
+title: Mornavel
 layout: default
 category: villes
 ---
