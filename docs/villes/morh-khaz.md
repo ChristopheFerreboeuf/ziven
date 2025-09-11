@@ -4,31 +4,33 @@ layout: default
 category: villes
 ---
 # Morh-Khaz
-
+<a href="../../images/morh-khaz.png" class="glightbox right" data-gallery="Morh-Khaz" data-title="La cité de Morh-Khaz telle qu’imaginée par le peintre Imagendir IV selon les récits du voyageur Erestrebian">
+<img src="../../images/morh-khaz.png" alt="Cité de Morh-Khaz telle qu’imaginée par le peintre Imagendir IV selon les récits du voyageur Erestrebian"/>
+</a>
 Ville d’origine d’**Eivan**, barbare drakéïde.  
 Située au pied des **Dents du Crépuscule**, chaîne de montagnes infranchissable qui borde l’ouest de Ziven. La ville est traversée par l’**Imrisse**, grand fleuve qui draine une grande partie de l’ouest du sous-continent.
 
 
-## 📊 Population
+## Population
 - Environ **2000 habitants**.  
 - **Majorité** : drakéïdes.  
 - **Présents** : humains, quelques nains, quelques demi-orcs (défense contre les dragons blancs).  
 - **Absents** : elfes, gnomes, halfelins, tieffelins.  
 
 
-## 💰 Économie
+## Économie
 - Commerce des **métaux et pierres** venant de la **mine-ville naine de Khazrund** (à une petite semaine de marche).  
 - Est : terres **fertiles**.  
 - Ouest : terres **brûlées** par les éruptions volcaniques.  
 
 
-## ⚖️ Politique & Société
+## Politique & Société
 - **Rattachement** : cité-état de **Ternil**, mais gestion relativement **autonome**.  
 - **Dirigeant** : **Rungard de la dynastie Sangdragon**, duc drakéïde, respecté et haï à la fois. Gouvernance pragmatique et dure, adaptée aux menaces (raids, éruptions).  
 - **Sa fille, Zaryss** : réputée pour sa grande beauté (selon les critères drakéïdes), mais jugée totalement **inaccessible**.  
 
 
-## 🏛️ Architecture & Défense
+## Architecture & Défense
 - **Pas d’enceinte** : les murailles sont inutiles contre les dragons.  
 - **Vingt tours rouges** :  
   - Chacune équipée d’**immenses balistes** capables de repousser (ou d’abattre) les dragons blancs.  
