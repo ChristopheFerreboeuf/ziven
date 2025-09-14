@@ -69,7 +69,7 @@ data-title="Khareb - le marché aux épices une autre rue">
 <img src="../../images/khareb-marche-epices-2.png" alt="Khareb - la marché aux épices"/>
 </a>
 
-<a href="../../images/course.png" class="glightbox" data-gallery="Khazal"
+<a href="../../images/khareb-course.png" class="glightbox" data-gallery="Khazal"
 data-title="Khareb - la course de chevaux">
 <img src="../../images/khareb-course.png" alt="Khareb - la grande course de chevaux"/>
 </a>
