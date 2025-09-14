@@ -46,3 +46,38 @@ Khareb reste davantage un lieu de passage qu’une véritable cité dense :
 - La ville ne possède pas de murailles closes : seules les **murailles-parevents** entourant le centre de pierre assurent une protection partielle contre les vents et les tempêtes de sable.  
 - À l’écart s’élève la **Flèche des Steppes**, une haute tour de guet en pierre sombre, servant à surveiller l’horizon par temps clair et à suivre le nuage des chevaux lors de la course annuelle.  
 - Une vaste **arène circulaire en pierre** complète le paysage, dédiée aux courses et aux compétitions équestres.  
+
+<div class="gallery">
+  <a href="../../images/khareb.png" class="glightbox" data-gallery="Khazal" 
+     data-title="Ville de Khareb" 
+     data-description="La guilde des cavaliers au centre de la ville, le cirque, l'hippodrome et la flèche des steppes.">
+    <img src="../../images/khareb.png" alt="Ville de Khareb"/>
+  </a>
+
+<a href="../../images/khareb-guilde-cavaliers.png" class="glightbox" data-gallery="Khazal"
+data-title="Khareb - la guilde des cavaliers">
+<img src="../../images/khareb-guilde-cavaliers.png" alt="Khareb - la guilde des cavaliers"/>
+</a>
+
+<a href="../../images/khareb-marche-epices.png" class="glightbox" data-gallery="Khazal"
+data-title="Khareb - le marché aux épices">
+<img src="../../images/khareb-marche-epices.png" alt="Khareb - la marché aux épices"/>
+</a>
+
+<a href="../../images/khareb-marche-epices-2.png" class="glightbox" data-gallery="Khazal"
+data-title="Khareb - le marché aux épices une autre rue">
+<img src="../../images/khareb-marche-epices-2.png" alt="Khareb - la marché aux épices"/>
+</a>
+
+<a href="../../images/course.png" class="glightbox" data-gallery="Khazal"
+data-title="Khareb - la course de chevaux">
+<img src="../../images/khareb-course.png" alt="Khareb - la grande course de chevaux"/>
+</a>
+
+<a href="../../images/khareb-cavaliers-acrobates.png" class="glightbox" data-gallery="Khazal"
+data-title="Khareb - cavaliers acrobates">
+<img src="../../images/khareb-cavaliers-acrobates.png" alt="Khareb - spectacle de cavaliers-acrobates"/>
+</a>
+
+
+</div>
