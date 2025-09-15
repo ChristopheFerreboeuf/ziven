@@ -7,6 +7,10 @@ category: royaumes
 **Type** : Royaume gouverné par une guilde de magiciens et ensorceleurs  
 
 ## Capitale  
+<a href="../../images/arkhazem.png" class="glightbox right" data-gallery="Khazal"
+   data-title="Arkhazem, ville de la magie et des arts">
+  <img src="../../images/arkhazem.png" alt="Temple d'Istus" />
+</a>
 - **Arkhazem** — Ville-pont monumentale enjambant le canyon de l’Imgodir à plus de 1000 m de hauteur. Centre politique et magique du royaume.  
   La ville accueille deux des écoles majeures du sous-continent : celle de magie et celle d’architecture.  
   La liberté de créativité qui y règne attire les plus grands talents, malgré les efforts de Siquivorn pour concurrencer son influence.  
@@ -22,7 +26,7 @@ data-title="Le fort du cap Poorv">
 - **Vallée de l’Imgodir** — Chaude et souvent noyée de brume, en contraste avec les hauts plateaux glacés d’Onalpita qui la bordent.  
 
 ## Villes principales  
-- **Arkhazem** — Capitale, ville-pont surplombant l’Imgodir.  
+- **[Arkhazem](../villes/arkhazem.md)** — Capitale, ville-pont surplombant l’Imgodir.  
 - **Norvik** — Ville au bord du lac des Murmures.  
 - **Eiswynn** — Ville lacustre jumelle de Norvik.  
 - **[Dibornad](../villes/dibornad.md)** — Port fluvial à l’embouchure de l’Imgodir.  

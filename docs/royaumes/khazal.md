@@ -30,11 +30,11 @@ Au sud, les terres se figent en plaines gelées, surveillées par la cité-campe
 
 ## Villes principales
 
-- **[Zerak'Tul](../villes/zeraktul.md)** : la capitale, bâtie sur les rives du lac Dorin. Cité fortifiée et prospère, centre du pouvoir royal et du commerce fluvial.  
+- **[Zerak'Tul](../villes/zeraktul.md)** : la capitale, bâtie sur les rives du lac Dorin. Cité fortifiée et prospère, centre du pouvoir royal.  
 - **[Khareb](../villes/khareb.md)** : carrefour des steppes, riche en marchés, réputée pour ses chevaux rapides et ses guerriers nomades.  
 - **[Rochevent](../villes/rochevent.md)** : au nord-est, bourgade adossée aux Collines de l’Écho, connue pour ses carrières de pierre et son manoir seigneurial (celui de Lord Edgar).  
 - **[Diular](../villes/diular.md)** : au sud extrême, cité-campement de soldats et colons, fragile et exposée, servant de sentinelle contre les menaces venues du froid.  
-- **[Bordulac](../villes/bordulac.md)** : village commerçant, relais fluvial.  
+- **[Bordulac](../villes/bordulac.md)** : village commerçant.  
 - **[Mornavel](../villes/mornavel.md)** : lieu brumeux réputé pour ses herboristes et ses légendes.  
 - **[Néril](../villes/neril.md)** : village de pêcheurs, connu pour ses barques fines.  
 
@@ -79,6 +79,29 @@ data-title="Negovar">
 data-title="Negovarund">
 <img src="../../images/Negovarund.png" alt="Negovarund"/>
 </a>
+<a href="../../images/khareb-guilde-cavaliers.png" class="glightbox" data-gallery="Khazal"
+data-title="Khareb - la guilde des cavaliers">
+<img src="../../images/khareb-guilde-cavaliers.png" alt="Khareb - la guilde des cavaliers"/>
+</a>
+
+<a href="../../images/khareb-marche-epices.png" class="glightbox" data-gallery="Khazal"
+data-title="Khareb - le marché aux épices">
+<img src="../../images/khareb-marche-epices.png" alt="Khareb - la marché aux épices"/>
+</a>
+
+<a href="../../images/khareb-marche-epices-2.png" class="glightbox" data-gallery="Khazal"
+data-title="Khareb - le marché aux épices une autre rue">
+<img src="../../images/khareb-marche-epices-2.png" alt="Khareb - la marché aux épices"/>
+</a>
+
+<a href="../../images/khareb-course.png" class="glightbox" data-gallery="Khazal"
+data-title="Khareb - la course de chevaux">
+<img src="../../images/khareb-course.png" alt="Khareb - la grande course de chevaux"/>
+</a>
+
+<a href="../../images/khareb-cavaliers-acrobates.png" class="glightbox" data-gallery="Khazal"
+data-title="Khareb - cavaliers acrobates">
+<img src="../../images/khareb-cavaliers-acrobates.png" alt="Khareb - spectacle de cavaliers-acrobates"/>
 </div>
 
 <script>
