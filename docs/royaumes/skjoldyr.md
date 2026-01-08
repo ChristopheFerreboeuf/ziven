@@ -33,7 +33,7 @@ data-title="Le fort du cap Poorv">
 - **[Poorvichahar](../villes/poorvichahar.md)** — Ville de transit du charbon venant du cap Poorv.  
 
 ## Économie  
-- La vallée de l’Imgodir sert de grenier aux hauts plateaux. Le développement urbain y est strictement codifié et les terres y sont très chères.  
+- La vallée de l’[Imgodir](../fleuves/imgodir.md) sert de grenier aux hauts plateaux. Le développement urbain y est strictement codifié et les terres y sont très chères.  
 - Les côtes de Skjoldyr comptent parmi les eaux les plus poissonneuses du sous-continent ; la pêche y représente une ressource notable.  
 - La véritable richesse du royaume repose cependant sur la **confection et le commerce d’objets magiques**, source de prestige et de revenus.  
 

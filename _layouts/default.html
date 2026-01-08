@@ -2,6 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
   <link rel="stylesheet"
     href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
@@ -73,6 +74,48 @@
       zoomable: true,
       touchNavigation: true
     });
+
+    // Mobile menu: toggle submenu on tap instead of navigating
+    (function() {
+      const isTouchDevice = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+
+      document.querySelectorAll('.has-sub > a').forEach(function(link) {
+        link.addEventListener('click', function(e) {
+          // Only intercept on touch devices or narrow screens
+          if (!isTouchDevice && window.innerWidth > 700) return;
+
+          const parent = this.parentElement;
+          const submenu = parent.querySelector('.submenu');
+          const isOpen = parent.classList.contains('submenu-open');
+
+          // Close all other submenus
+          document.querySelectorAll('.has-sub.submenu-open').forEach(function(el) {
+            if (el !== parent) {
+              el.classList.remove('submenu-open');
+              el.querySelector('a').setAttribute('aria-expanded', 'false');
+            }
+          });
+
+          if (!isOpen) {
+            // First tap: open submenu, don't navigate
+            e.preventDefault();
+            parent.classList.add('submenu-open');
+            this.setAttribute('aria-expanded', 'true');
+          }
+          // Second tap (isOpen true): allow navigation to the page
+        });
+      });
+
+      // Close submenus when tapping outside
+      document.addEventListener('click', function(e) {
+        if (!e.target.closest('.has-sub')) {
+          document.querySelectorAll('.has-sub.submenu-open').forEach(function(el) {
+            el.classList.remove('submenu-open');
+            el.querySelector('a').setAttribute('aria-expanded', 'false');
+          });
+        }
+      });
+    })();
   </script>
 </body>
 </html>

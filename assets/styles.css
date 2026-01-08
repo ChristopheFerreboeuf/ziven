@@ -163,7 +163,8 @@ br.clear {
 
 /* Ouvrir au hover ET au focus clavier */
 .has-sub:hover > .submenu,
-.has-sub:focus-within > .submenu{ display:block; }
+.has-sub:focus-within > .submenu,
+.has-sub.submenu-open > .submenu{ display:block; }
 
 /* Anneau d'accessibilité au clavier */
 .menu a:focus-visible{
@@ -176,7 +177,8 @@ br.clear {
   .menu{ flex-wrap: wrap; gap:.25em; }
   .submenu{ position: static; display:none; margin:.25em 0 0; }
   .has-sub:hover > .submenu,
-  .has-sub:focus-within > .submenu{ display:block; }
+  .has-sub:focus-within > .submenu,
+  .has-sub.submenu-open > .submenu{ display:block; }
 }
 
 
