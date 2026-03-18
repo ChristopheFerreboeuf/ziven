@@ -4,6 +4,10 @@ layout: default
 category: villes
 ---
 # Zerak’tul, Cité du Lac Dorin
+<a href="../../images/zerak-tul.png" class="glightbox right" data-gallery="khazal"
+   data-title="Village de Rochevent, perché sur sa colline">
+  <img src="../../images/zerak-tul.png" alt="Rochevent"/>
+</a>
 Capitale politique de [Khazal](../royaumes/khazal.md), la ville est construite sur les bords du [lac Dorin](../lieux/lac_dorin.md).  
 Centre du pouvoir royal, elle est aussi un **centre économique actif**, bien que moins dynamique que [Khareb](../villes/khareb.md).  
 Sa garnison importante et la présence de la cour expliquent une population d’environ **15 000 habitants**.  
