@@ -45,6 +45,9 @@ La forteresse abrite un **contingent militaire commun à tous les royaumes** du 
 * **Centre logistique** : Coordination de l'exploitation minière et du transport du charbon.
 * **Administration pénitentiaire** : Le gouverneur du bagne réside dans la forteresse, bien que nommé par l'[Empire de Siquimes](/ziven/docs/royaumes/siquimes.html).
 
+### Passage secret
+La forteresse dispose d'un **passage secret**, connu uniquement du gouverneur et de ses plus proches officiers. Cette sortie de secours permet une évacuation discrète en cas de siège ou de mutinerie.
+
 ## Les Mines de Charbon
 
 Les **mines de Poorv** constituent la plus grande exploitation charbonnière du sous-continent. Le charbon extrait alimente les forges, les foyers et les industries de tous les royaumes.
@@ -94,14 +97,14 @@ Le bagne est réputé inviolable, non par ses murs mais par son environnement :
 
 ### Conditions de vie
 
-* **Nourriture** : Bouillie claire la plupart du temps, soupe au poulet les jours fastes. Les rations dépendent des quotas atteints.
+* **Nourriture** : Bouillie claire la plupart du temps, soupe au poulet les jours fastes. Les rations dépendent des quotas atteints : **7 kg de charbon par mineur** pour avoir droit à la soupe, **10 kg pour le poulet**.
 * **Logement** : Cabanons surpeuplés, chauffés par un unique poêle à charbon qui tire mal. Le vent s'infiltre par les planches disjointes.
 * **Travail** : Descente dans les galeries à l'aube, remontée au crépuscule. Sept jours sur sept.
 * **Espérance de vie** : Rares sont ceux qui survivent plus de cinq ans.
 
 ## Particularités
 
-* **Prisonniers politiques** : Le bagne accueille aussi des opposants à l'Empire, des nobles déchus et des témoins gênants. Certains y sont envoyés pour « disparaître » discrètement.
+* **Prisonniers politiques** : Le bagne accueille aussi des opposants à l'Empire, des nobles déchus et des témoins gênants. Certains y sont envoyés pour « disparaître » discrètement. Un **bâtiment séparé**, situé près de l'entrée du camp, est réservé aux prisonniers à statut particulier — nobles déchus, opposants politiques — qui y bénéficient de conditions légèrement moins rudes que dans les cabanons ordinaires.
 * **Absence de surveillance intérieure** : Les galeries ne sont pas gardées. Les mouchards compensent cette lacune.
 * **Galeries abandonnées** : Certains tunnels, murés depuis des décennies, pourraient mener vers des sorties oubliées. Les anciens mineurs en parlent à voix basse.
 * **Tombeaux anciens** : Avant les mines, ces collines abritaient les sépultures des seigneurs de guerre des steppes. Certaines galeries auraient percé ces tombeaux, libérant — dit-on — des choses qu'il aurait mieux valu laisser dormir.
