@@ -102,9 +102,9 @@ politique et l'autorité religieuse sont indissociables.
     <img src="../../images/skjorren-hiver.png" alt="Skjorren en hiver"/>
   </a>
 
-  <a href="../../images/skjorren-hiver.png" class="glightbox" data-gallery="skjorren"
+  <a href="../../images/skjorren-college-druidique.png" class="glightbox" data-gallery="skjorren"
      data-title="Vue d'artiste du collège druidique">
-    <img src="../../images/skjorren-college-druidique.png" alt="Skjorren en hiver"/>
+    <img src="../../images/skjorren-college-druidique.png" alt="Vue d'artiste du collège druidique"/>
   </a>
 </div>
 
