@@ -11,7 +11,7 @@ royaume: Khazal
   <img src="../../images/rochevent.png" alt="Rochevent"/>
 </a>
 
-Petit village du [royaume de Khazal](../royaumes/khazal.md) accroché aux pentes d’une colline qui surplombe le plateau d’Onalpita, **Rochevent** vit au rythme de sa carrière de marbre blanc, réputée dans tout Ziven. Situé à une quarantaine de kilomètres des **Collines de l’Écho**, le village est dominé par le **manoir d’Outremont**, résidence ancestrale de Lord Edgar.
+Petit village du [royaume de Khazal](../royaumes/khazal.md) accroché aux pentes d’une colline qui surplombe le plateau d’Onalpita, **Rochevent** vit au rythme de sa carrière de marbre blanc, réputée dans tout Ziven. Situé à une quarantaine de kilomètres des **Collines de l’Écho**, le village est dominé par le **manoir d’Outremont**, résidence ancestrale de Lord Edgar de Valmont.
 
 ## Géographie et situation
 - **Relief** : le village s’étage sur la colline, dominé par le manoir d’Outremont.  
@@ -30,7 +30,8 @@ Les Rocheventaux sont principalement des contremaîtres et des gardes. Quelques 
 
 
 ## Lieux notables
-- **Manoir d’Outremont** : résidence seigneuriale, symbole de la puissance locale.  
+- **[Manoir d’Outremont](../lieux/manoir-outremont.md)** : résidence seigneuriale de Lord Edgar de Valmont, symbole de la puissance locale.
+- **Bibliothèque** : petite mais bien fournie, tenue par un frère érudit qui veille sur une collection d’ouvrages anciens.
 - **Temple d’Ulaa** : construit entièrement en marbre blanc, orné de colonnes richement décorées.  
 - **Auberge** : halte pour voyageurs et marchands, centre de rumeurs locales. Quelques pélerins y restent quand ils viennent voir l'impressionnant temple qui se trouve dans le village.
 - **Place centrale** : quelques échoppes vendent des produits alimentaires (pain, légumes secs, fromages, viandes salées). Il y a de temps à autre un colporteur.
@@ -39,7 +40,7 @@ Les Rocheventaux sont principalement des contremaîtres et des gardes. Quelques 
 
 ## Ambiance
 Rochevent est un village austère et venteux, mais fier de son marbre — « la pierre de Rochevent » est recherchée dans toutes les grandes cités de Ziven.  
-Bien que Lord Edgar y soit considéré comme un personnage influent, son prestige ne dépasse guère les frontières du royaume, ce qui reste pour lui un sujet d’amertume.  
+Bien que Lord Edgar de Valmont y soit considéré comme un personnage influent, son prestige ne dépasse guère les frontières du royaume, ce qui reste pour lui un sujet d’amertume.  
 
 <div class="gallery">
   <a href="../../images/rochevent-1.png" class="glightbox" data-gallery="Rochevent" 
