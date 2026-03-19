@@ -7,7 +7,6 @@ category: villes
 <a href="../../images/morh-khaz.png" class="glightbox right" data-gallery="Morh-Khaz" data-title="La cité de Morh-Khaz telle qu’imaginée par le peintre Imagendir IV selon les récits du voyageur Erestrebian">
 <img src="../../images/morh-khaz.png" alt="Cité de Morh-Khaz telle qu’imaginée par le peintre Imagendir IV selon les récits du voyageur Erestrebian"/>
 </a>
-Ville d’origine d’**Eivan**, barbare drakéïde.  
 Située au pied des **Dents du Crépuscule**, chaîne de montagnes infranchissable qui borde l’ouest de Ziven. La ville est traversée par l’**Imrisse**, grand fleuve qui draine une grande partie de l’ouest du sous-continent.
 
 
