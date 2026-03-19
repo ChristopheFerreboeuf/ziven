@@ -7,6 +7,7 @@ status: draft
 ---
 
 # Glounar – La Ville du Luxe et du Fleuve
+
 ![glounar.png](../../images/glounar.png)
 **Résumé :** Deuxième ville de Ziven par sa taille, Glounar est située au point où l'Imrisse cesse d'être navigable.
 Carrefour commercial incontournable, elle est aussi une capitale du raffinement et de l'élégance, connue dans tout le
@@ -17,7 +18,9 @@ belles.
 ## Situation et fondements
 
 **Type** : Ville ducale, carrefour fluvial et capital du luxe artisanal
+
 **Localisation** : Point de rupture de charge de l'Imrisse, limite du contrôle direct de la famille Siquimes
+
 **Gouvernance** : Duc issu de la fratrie impériale, nommé à vie
 
 ## Géographie et urbanisme
@@ -81,6 +84,10 @@ Les horlogers sont discrets, fenêtres souvent condamnées, portes épaisses, le
 
 Les tailleurs occupent les rues les plus colorées, les étoffes débordant des façades, chaque famille affichant ses
 dernières créations.
+
+Les bijoutiers occupent les places les plus proches du temple de Sunie. Cependant, leurs échoppes sont barricadées pour
+quiconque ne saurait montrer pate blanche. Dans le cas des bijoutiers de Glounar, une pate blanche est une bourse bien
+remplie.
 
 ## Le quartier du temple
 
