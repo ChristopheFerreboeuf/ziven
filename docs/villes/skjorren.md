@@ -7,7 +7,7 @@ type: ville
 
 # Skjorren
 
-<a href="../../images/rochevent.png" class="glightbox right" data-gallery="tharvell"
+<a href="../../images/skjorren.png" class="glightbox right" data-gallery="tharvell"
 data-title="Skjorren">
 <img src="../../images/skjorren.png" alt="Skjorren"/>
 </a>
