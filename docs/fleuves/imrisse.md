@@ -5,7 +5,7 @@ category: fleuves
 type: fleuve
 ---
 
-# L'Imrisse – Le Fleuve de Narhtë
+# L'Imrisse
 
 **Résumé :** Né dans les chaos volcaniques des [Dents du Crépuscule](../regions/dents_du_crepuscule.md), l'Imrisse
 traverse près de 3000 km avant de se jeter dans l'estuaire de [Siquivorn](../villes/siquivorn.md). Fleuve puissant et
