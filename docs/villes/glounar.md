@@ -113,6 +113,22 @@ fleuve, afin que le spectacle reste immaculé le jour.
 Le temple lui-même joue un rôle d'arbitre informel entre les guildes, commandant aux unes et aux autres pour ses
 cérémonies. La faveur des prêtres de Sunie vaut de l'or.
 
+<a href="../../images/glounar-festival.png" class="glightbox" data-gallery="Khazal"
+data-title="Glounar - Festival de Sunie">
+<img src="../../images/glounar-festival.png" alt="Glounar - Festival de Sunie"/>
+</a>
+
+<a href="../../images/glounar-festival-1.png" class="glightbox" data-gallery="Khazal"
+data-title="Glounar - Participants au festival de Sunie">
+<img src="../../images/glounar-festival-1.png" alt="Glounar - Participants au festival de Sunie"/>
+</a>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const lightbox = GLightbox({ selector: '.glightbox' });
+});
+</script>
+
 ## Le quartier pauvre
 
 Au sud de la colline des artisans commence un monde que le festival s'emploie à rendre invisible. La richesse artisanale

@@ -15,7 +15,25 @@ Le principal moteur économique est le **commerce des métaux et pierres précie
 
 ## Politique
 
-Ternil jouit du statut de **cité-état indépendante**, avec une autorité affirmée sur les villes et villages voisins. Elle est dirigée par la **Grande Guilde**, conseil marchand dominé par les **[douze familles marchandes](../factions/douze-familles-ternil.md)**. Ces familles sont les **seules à disposer du droit de vote**. La cité exerce un contrôle militaire et fiscal sur les routes commerciales issues des mines.
+Ternil jouit du statut de **cité-état indépendante**, avec une autorité affirmée sur les villes et villages voisins. Elle est dirigée par la **Grande Guilde**, conseil marchand dominé par les **[douze familles marchandes](#les-douze-familles)**. Ces familles sont les **seules à disposer du droit de vote**. La cité exerce un contrôle militaire et fiscal sur les routes commerciales issues des mines.
+
+
+## Les Douze Familles
+
+Le pouvoir de Ternil est détenu par la **Grande Guilde**, composée des **douze familles marchandes**. Seules ces familles disposent du **droit de vote** au conseil. Toutes sont humaines, à l'exception notable des **Sangdragon**, drakéïdes de Morh-Khaz, tolérés pour leur rôle militaire mais contestés par les autres.
+
+- **Sangdragon** (drakéïdes) — artefacts draconiques : sang, os, écailles, trophées et objets rituels. Seule famille non-humaine du conseil, incontournable mais mal vue.
+- **Setani** — commerce de la soie, produite dans les manufactures de l'Imrisse et notamment à Ilygan.
+- **Hayzreni** — pigments rares issus de la mine naine de Hayzgar, fournisseurs privilégiés des teinturiers et tisserands.
+- **Drevaldi** — commerce et taille de pierres précieuses, joailliers influents liés aux cités de la côte.
+- **Corvelli** — négoce des métaux précieux (or, argent, platine), réputés pour leur richesse insolente.
+- **Brescari** — laine, de l'élevage aux filatures, alliés traditionnels des Hayzreni pour la teinture.
+- **Tarrino** — viande de mouton (élevages, abattoirs, conservation), fournisseurs officiels des garnisons de l'ouest.
+- **Ormavari** — roche volcanique de construction importée depuis Glounar, responsables du style architectural rouge, noir et blanc de Ternil.
+- **Cuoiari** — cuirs et peaux (selles, bottes, armures légères).
+- **Fedrani** — bois et charbon de la forêt de la Porite, ressources en déclin mais vitales pour les forges.
+- **Erlandini** — sel et denrées alimentaires, par import et export depuis Siquimes et Vaultclos.
+- **Caravossi** — banques et prêts marchands, finançant caravanes et flottes, détenteurs des dettes de nombreuses familles.
 
 
 ## Architecture

@@ -47,11 +47,11 @@ Une à deux fois par siècle, cela arrive deux fois dans la même année.
 
 ## Onié (Septembre)
 
-### Fête de la Pukepacha *(fête saisonnière mineure)*
+### Fête de Pukepacha *(fête saisonnière mineure)*
 
 **Lieu :** Tout le continent
 
-### Fête du Printemps à Skjorren *(événement majeur, remplace la fête saisonnière)*
+### Fête de Pukepacha à Skjorren
 
 **Lieu :** [Skjorren](../villes/skjorren.md), Royaume de [Tharvell](../royaumes/tharvell.md)
 
@@ -102,7 +102,7 @@ affluent, notamment les nobles et érudits d'Arkhazem, à quelques jours de marc
 
 ## Quarié (Décembre)
 
-### Fête de la Lapapacha *(fête saisonnière mineure)*
+### Fête de Lapapacha *(fête saisonnière mineure)*
 
 **Lieu :** Tout le continent
 
@@ -149,7 +149,7 @@ de la cité naine. Les prix atteignent des sommets pour les meilleurs spécimens
 
 ## Heptié (Mars)
 
-### Fête de la Veïapacha *(fête saisonnière mineure)*
+### Fête de Veïapacha *(fête saisonnière mineure)*
 
 **Lieu :** Tout le continent
 
@@ -199,7 +199,7 @@ trimé dans les vignes, et elle dure plusieurs jours.
 
 ## Déquié (Juin)
 
-### Fête de la Sniegapacha *(fête saisonnière mineure)*
+### Fête de Sniegapacha *(fête saisonnière mineure)*
 
 **Lieu :** Tout le continent
 
