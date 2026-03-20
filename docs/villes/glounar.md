@@ -113,15 +113,17 @@ fleuve, afin que le spectacle reste immaculé le jour.
 Le temple lui-même joue un rôle d'arbitre informel entre les guildes, commandant aux unes et aux autres pour ses
 cérémonies. La faveur des prêtres de Sunie vaut de l'or.
 
-<a href="../../images/glounar-festival.png" class="glightbox" data-gallery="Khazal"
+<div class="gallery">
+<a href="../../images/glounar-festival.png" class="glightbox" data-gallery="Glounar"
 data-title="Glounar - Festival de Sunie">
 <img src="../../images/glounar-festival.png" alt="Glounar - Festival de Sunie"/>
 </a>
 
-<a href="../../images/glounar-festival-1.png" class="glightbox" data-gallery="Khazal"
+<a href="../../images/glounar-festival-1.png" class="glightbox" data-gallery="Glounar"
 data-title="Glounar - Participants au festival de Sunie">
 <img src="../../images/glounar-festival-1.png" alt="Glounar - Participants au festival de Sunie"/>
 </a>
+</div>
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {
