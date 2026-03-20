@@ -31,7 +31,11 @@ de la ville.
 
 ## Idingrodia
 
-Idingrodia est un Igrodia millénaire planté, selon la tradition, par le druide **Osgin**. Son âge est estimé à **1500 ans**, soit un dixième seulement de sa durée de vie potentielle, et il atteint actuellement près de **100 m** de hauteur. Un vaste espace libre de toute construction protège ses racines sur tout son périmètre. Les druides le considèrent comme un être vivant à part entière, centre spirituel du royaume. Selon la légende, Osgin vivrait encore **au cœur de l'arbre**, veillant sur Tharvell.
+Idingrodia est un Igrodia millénaire planté, selon la tradition, par le druide **Osgin**. Son âge est estimé à **1500
+ans**, soit un dixième seulement de sa durée de vie potentielle, et il atteint actuellement près de **100 m** de
+hauteur. Un vaste espace libre de toute construction protège ses racines sur tout son périmètre. Les druides le
+considèrent comme un être vivant à part entière, centre spirituel du royaume. Selon la légende, Osgin vivrait encore *
+*au cœur de l'arbre**, veillant sur Tharvell.
 
 ---
 
@@ -42,7 +46,10 @@ un arbre sacré du type **Hodir**. C'est un arbre qui pousse normalement dans la
 presque tropical. Afin qu'il puisse fleurir et resister aux rudes hivers de Skjorren, les druides ont créé un réseau de
 chaleur qui maintient la température dans la serre.
 
-Le Collège est le siège de l'autorité druidique suprême du royaume. **La Grande Voix** est le titre porté par le chef du conseil druidique, interlocuteur principal de la noblesse et voix officielle des druides dans les affaires du royaume. **Le conseil des onze druides** est l'instance délibérative qui tranche les questions relevant du droit druidique, de la gestion des forêts, et des affaires politiques majeures ; ses décisions s'imposent à la noblesse.
+Le Collège est le siège de l'autorité druidique suprême du royaume. **La Grande Voix** est le titre porté par le chef du
+conseil druidique, interlocuteur principal de la noblesse et voix officielle des druides dans les affaires du royaume. *
+*Le conseil des onze druides** est l'instance délibérative qui tranche les questions relevant du droit druidique, de la
+gestion des forêts, et des affaires politiques majeures ; ses décisions s'imposent à la noblesse.
 
 Le Collège dispose d'un **réseau de communication végétal** : les avis et mandats émis par le conseil se propagent à
 travers le réseau des arbres du royaume, permettant une diffusion rapide des informations aux relais et aux communautés
@@ -55,7 +62,9 @@ forestières. Aucun relais n'est autorisé à enfreindre une injonction du Coll�
 Événement annuel majeur, la Fête du Printemps réunit à Skjorren des pèlerins, marchands et druides venus de **tout le
 sous-continent**.
 
-Elle se déroule en deux espaces distincts. Le **parc d'Idingrodia**, en ville, accueille les druides qui célèbrent des cérémonies de symbiose avec l'arbre sacré. Les **vergers de cerisiers**, à l'extérieur des murailles, offrent leur floraison qui constitue le cœur symbolique de la fête.
+Elle se déroule en deux espaces distincts. Le **parc d'Idingrodia**, en ville, accueille les druides qui célèbrent des
+cérémonies de symbiose avec l'arbre sacré. Les **vergers de cerisiers**, à l'extérieur des murailles, offrent leur
+floraison qui constitue le cœur symbolique de la fête.
 
 La floraison des cerisiers est attendue comme un signe de renouveau et d'abondance. Des marchés extraordinaires
 s'installent pour l'occasion : broderies, parfums, bijoux et denrées rares venus de tout Ziven. La fête dure plusieurs
@@ -84,15 +93,15 @@ politique et l'autorité religieuse sont indissociables.
     <img src="../../images/skjorren.png" alt="Skjorren"/>
   </a>
 
-  <a href="../../images/skjorren-hiver.png" class="glightbox" data-gallery="skjorren"
-     data-title="Skjorren en hiver">
-    <img src="../../images/skjorren-hiver.png" alt="Skjorren en hiver"/>
-  </a>
+<a href="../../images/skjorren-hiver.png" class="glightbox" data-gallery="skjorren"
+data-title="Skjorren en hiver">
+<img src="../../images/skjorren-hiver.png" alt="Skjorren en hiver"/>
+</a>
 
-  <a href="../../images/skjorren-college-druidique.png" class="glightbox" data-gallery="skjorren"
-     data-title="Vue d'artiste du collège druidique">
-    <img src="../../images/skjorren-college-druidique.png" alt="Vue d'artiste du collège druidique"/>
-  </a>
+<a href="../../images/skjorren-college-druidique.png" class="glightbox" data-gallery="skjorren"
+data-title="Vue d'artiste du collège druidique">
+<img src="../../images/skjorren-college-druidique.png" alt="Vue d'artiste du collège druidique"/>
+</a>
 </div>
 
 <script>

@@ -9,8 +9,8 @@ type: fleuve
 
 **Résumé :** Né dans les chaos volcaniques des [Dents du Crépuscule](../regions/dents_du_crepuscule.md), l'Imrisse
 traverse près de 3000 km avant de se jeter dans l'estuaire de [Siquivorn](../villes/siquivorn.md). Fleuve puissant et
-peu méandrant, comparable à la Loire ou au Danube, il est l'artère vitale de
-la [Plaine centrale](../regions/plaine_centrale.md) et le territoire sacré de la
+peu méandrant, il est l'artère vitale de la [Plaine centrale](../regions/plaine_centrale.md) et le territoire sacré de
+la
 déesse [Narhtë](#narhtë-déesse-de-limrisse). Sur ses rives et dans ses eaux vivent des êtres qui ne connaissent pas
 d'autre monde.
 
@@ -41,17 +41,28 @@ fois plus longtemps.
 
 ### Les villes du fleuve navigable
 
-**[Ternil](../royaumes/ternil.md)** est la cité marchande qui contrôle une partie du commerce fluvial. Ses manufactures de soie bordent les rives de l'Imrisse, et les teintures aux pigments rares de Hayzgar colorent parfois les eaux en aval. **[Glounar](../villes/glounar.md)**, deuxième ville de Ziven, est un carrefour incontournable : tout ce qui remonte le fleuve depuis Siquivorn s'arrête ici, et tout ce qui descend de l'ouest y est chargé sur des barges. **Orveth** se trouve au bord du point le plus profond du fleuve, avant que l'Imrisse ne se déploie dans son marais ; le fond du fleuve y est insondé et les méervals y sont les plus grands. **[Siquivorn](../villes/siquivorn.md)**, capitale de l'[Empire de Siquimes](../royaumes/siquimes.md), se situe au fond de l'estuaire. Le fleuve s'y dilue dans la mer en une multitude de bras, dont certains ont été creusés par l'homme pour alimenter les canaux de la ville.
+**[Ternil](../royaumes/ternil.md)** est la cité marchande qui contrôle une partie du commerce fluvial. Ses manufactures
+de soie bordent les rives de l'Imrisse, et les teintures aux pigments rares de Hayzgar colorent parfois les eaux en
+aval. **[Glounar](../villes/glounar.md)**, deuxième ville de Ziven, est un carrefour incontournable : tout ce qui
+remonte le fleuve depuis Siquivorn s'arrête ici, et tout ce qui descend de l'ouest y est chargé sur des barges. **Orveth
+** se trouve au bord du point le plus profond du fleuve, avant que l'Imrisse ne se déploie dans son marais ; le fond du
+fleuve y est insondé et les méervals y sont les plus grands. **[Siquivorn](../villes/siquivorn.md)**, capitale de
+l'[Empire de Siquimes](../royaumes/siquimes.md), se situe au fond de l'estuaire. Le fleuve s'y dilue dans la mer en une
+multitude de bras, dont certains ont été creusés par l'homme pour alimenter les canaux de la ville.
 
 ---
 
 ## Le marais d'Orveth
 
 Au-delà d'Orveth, l'Imrisse cesse d'être un fleuve pour devenir un monde à part entière. Le courant se fragmente en un
-**chenal principal** navigable avec prudence, et des **milliers de bras secondaires** qui s'enfoncent dans les roselières
+**chenal principal** navigable avec prudence, et des **milliers de bras secondaires** qui s'enfoncent dans les
+roselières
 et les sous-bois inondés.
 
-Le marais est dangereux pour qui ne le connaît pas. Les **basilics** y chassent à l'affût, camouflés dans les roseaux. De petites communautés de **saurials** et de **yuan-ti** y vivent, à l'écart du monde, tolérées par Narhtë tant qu'elles respectent les eaux. Les feux follets y sont fréquents, et leur nature reste disputée : esprits égarés, manifestations de drenkels, ou simple phosphorescence des marais ?
+Le marais est dangereux pour qui ne le connaît pas. Les **basilics** y chassent à l'affût, camouflés dans les roseaux.
+De petites communautés de **saurials** et de **yuan-ti** y vivent, à l'écart du monde, tolérées par Narhtë tant qu'elles
+respectent les eaux. Les feux follets y sont fréquents, et leur nature reste disputée : esprits égarés, manifestations
+de drenkels, ou simple phosphorescence des marais ?
 
 Les enfants du fleuve connaissent les passages sûrs et refusent de les indiquer aux étrangers imprudents.
 
@@ -64,7 +75,10 @@ grandissent sur les barges, et meurent sur les barges. Leurs enfants ont des enf
 d'autre maison que le bois des coques et le clapotis de l'eau contre la coque la nuit.
 
 Ils ont leurs propres codes, leurs propres superstitions, et un rapport au fleuve que les habitants des rives ne
-comprennent pas vraiment. On ne répond jamais à un appel venu de l'eau après le coucher du soleil. On ne prononce pas le nom d'un noyé récent à bord d'un bateau. On jette une pièce à l'eau quand on passe au-dessus d'une fosse connue. Un mort sur une barge doit être rendu au fleuve selon le rite, jamais enterré en terre, car un corps enterré ne trouve pas Narhtë.
+comprennent pas vraiment. On ne répond jamais à un appel venu de l'eau après le coucher du soleil. On ne prononce pas le
+nom d'un noyé récent à bord d'un bateau. On jette une pièce à l'eau quand on passe au-dessus d'une fosse connue. Un mort
+sur une barge doit être rendu au fleuve selon le rite, jamais enterré en terre, car un corps enterré ne trouve pas
+Narhtë.
 
 Les enfants du fleuve sont les fidèles naturels de Narhtë, sans temple ni clergé formel. Leur prière, c'est le fleuve
 lui-même.
@@ -86,7 +100,10 @@ lueurs bleutées sous l'eau.
 
 ## Régate d'Orveth
 
-En plein Lapapacha, au mois de Quinié, l'Imrisse est calme et chaude. La régate se déroule devant les ghâts d'Orveth, là où le fleuve est le plus profond et où Narhtë est réputée particulièrement présente. Les enfants du fleuve y participent en nombre, voyant dans la course un moyen d'obtenir les faveurs de la déesse pour l'année à venir. Les méervals des fosses, les plus grands de tout le fleuve, sont parfois aperçus sous les coques la nuit précédant la course.
+En plein Lapapacha, au mois de Quinié, l'Imrisse est calme et chaude. La régate se déroule devant les ghâts d'Orveth, là
+où le fleuve est le plus profond et où Narhtë est réputée particulièrement présente. Les enfants du fleuve y participent
+en nombre, voyant dans la course un moyen d'obtenir les faveurs de la déesse pour l'année à venir. Les méervals des
+fosses, les plus grands de tout le fleuve, sont parfois aperçus sous les coques la nuit précédant la course.
 
 ---
 
@@ -129,6 +146,7 @@ savent lire.
 ---
 
 ## Narhtë, déesse de l'Imrisse
+
 <a href="../../images/narhte.png" class="glightbox right" data-gallery="Morh-Khaz" data-title="Narhte, la déesse du fleuve Imrisse">
 <img src="../../images/narhte.png" alt="Narhte, la déesse du fleuve Imrisse"/>
 </a>
@@ -159,7 +177,9 @@ Narhtë est plus libre. Elle fait ce que Sunie ne peut pas faire.
 
 ## Données techniques
 
-**Longueur totale :** environ 3 282 km. **Source :** Dents du Crépuscule. **Embouchure :** estuaire de Siquivorn. **Navigabilité :** de Glounar à Siquivorn (~2 300 km). **Tronçon innavigable :** les Fureurs, entre Morh-Khaz et Glounar. **Point le plus profond :** fosses d'Orveth (profondeur inconnue).
+**Longueur totale :** environ 3 282 km. **Source :** Dents du Crépuscule. **Embouchure :** estuaire de Siquivorn. *
+*Navigabilité :** de Glounar à Siquivorn (~2 300 km). **Tronçon innavigable :** les Fureurs, entre Morh-Khaz et Glounar.
+**Point le plus profond :** fosses d'Orveth (profondeur inconnue).
 
 <a href="../../images/glounar.png" class="glightbox" data-gallery="Imrisse"
 data-title="Glounar">

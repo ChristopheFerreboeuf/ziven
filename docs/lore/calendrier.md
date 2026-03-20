@@ -86,7 +86,8 @@ informel entre les guildes pour ses cérémonies. La faveur de ses prêtres vaut
 **Lieu :** [Lac Dorin](../lieux/lac_dorin.md), [Zerak'Tul](../villes/zeraktul.md), [Khazal](../royaumes/khazal.md)
 
 Avec le retour de la Pukepacha, le lac Dorin se réchauffe après les mois de Sniegapacha. La régate est une tradition
-locale qui oppose les pêcheurs de Zerak'Tul, de [Néril](../villes/neril.md) et des villages du lac. Rien de comparable à la régate d'Orveth :
+locale qui oppose les pêcheurs de Zerak'Tul, de [Néril](../villes/neril.md) et des villages du lac. Rien de comparable à
+la régate d'Orveth :
 pas de pèlerinage, pas de marchés extraordinaires, mais une vraie fête populaire ancrée dans la vie du royaume.
 
 ### Course annuelle des steppes à Khareb
@@ -95,7 +96,8 @@ pas de pèlerinage, pas de marchés extraordinaires, mais une vraie fête popula
 
 Événement phare de Khareb, la course est une épreuve de 200 km en trois jours, mettant à rude épreuve montures et
 cavaliers. Les concurrents viennent de tout le sous-continent, voire au-delà. La récompense est de 5000 pièces d'or,
-auxquelles la guilde des artisans magiques d'[Arkhazem](../villes/arkhazem.md) ajoute un artefact unique lié à la cavalerie. Les spectateurs
+auxquelles la guilde des artisans magiques d'[Arkhazem](../villes/arkhazem.md) ajoute un artefact unique lié à la
+cavalerie. Les spectateurs
 affluent, notamment les nobles et érudits d'Arkhazem, à quelques jours de marche.
 
 ---
@@ -125,7 +127,8 @@ quelques jours de marche.
 
 **Lieu :** Orveth, sur l'Imrisse, Royaume de Siquimes
 
-En plein Lapapacha, l'[Imrisse](../fleuves/imrisse.md) est calme et chaude, et ses berges accueillent une foule venue de toute la région. La
+En plein Lapapacha, l'[Imrisse](../fleuves/imrisse.md) est calme et chaude, et ses berges accueillent une foule venue de
+toute la région. La
 régate se déroule devant les ghâts d'Orveth, là où le fleuve est le plus profond et où Narhtë est réputée
 particulièrement présente. Les enfants du fleuve y participent en masse et voient dans la course une façon d'obtenir les
 faveurs de la déesse pour l'année à venir. Les méervals des fosses, les plus grands de tout le fleuve, sont parfois
@@ -164,9 +167,23 @@ L'anniversaire de l'Empereur est avant tout un événement diplomatique : toutes
 ambassades sont présentes, les rues pavées de sillar sont ornées aux couleurs de chaque royaume représenté. Derrière le
 faste officiel des banquets et des parades se jouent les vraies négociations de l'année.
 
+### Panayllu
+
+**Lieu :** [Combe de Panayllu](../lieux/panayllu.md), plateau d'[Onalpita](../regions/onalpita.md), à l'est
+des [Collines de l'Écho](../lieux/colline-echo.md)
+
+Au début de la Veïapacha, une combe déserte du plateau d'Onalpita devient pendant six jours l'un des rassemblements les
+plus libres de Ziven. Les tribus d'[Edravorn](../royaumes/edravorn.md) y dressent leurs yourtes et leurs étendards,
+chacune sur son espace. Les bardes les plus renommés du sous-continent choisissent Panayllu ou les salons
+de [Siquivorn](../villes/siquivorn.md) — les deux portent de la gloire, mais pas la même. Les étudiants de l'école de
+musique d'[Arkhazem](../villes/arkhazem.md), dont les portes ferment pour l'occasion, font le voyage en nombre pour se
+faire connaître. La semaine s'achève par les courses de chevaux informelles et le feu qui consume la grande structure
+centrale.
+
 ### Pèlerinage au temple d'Istus
 
-**Lieu :** Temple d'Istus, au pied du Voile d'[Aldéra](../fleuves/aldera.md), Royaume de [Valcalme](../royaumes/valcalme.md)
+**Lieu :** Temple d'Istus, au pied du Voile d'[Aldéra](../fleuves/aldera.md), Royaume
+de [Valcalme](../royaumes/valcalme.md)
 
 En Veïapacha, des pèlerins venus de tout Ziven font le chemin jusqu'au sanctuaire de marbre blanc érigé au pied de la
 cascade de près de 1000 mètres. Le temple n'a pas de murs : tous sont bienvenus. La brume permanente que le Voile
@@ -239,4 +256,5 @@ fête mêle festivités populaires et cérémonies plus solennelles liées aux d
 Cérémonie ancienne et solennelle, bien antérieure aux tours rouges qui défendent aujourd'hui la ville. L'offrande est
 conduite par le duc Rungard Sangdragon et n'attire guère les foules extérieures. Les rares étrangers qui y assistent en
 parlent avec un mélange de fascination et d'inconfort. C'est un rite de coexistence avec des créatures qu'on ne peut pas
-toujours vaincre, et qui rappelle que Morh-Khaz vit depuis toujours à l'ombre des [Dents du Crépuscule](../regions/dents_du_crepuscule.md).
+toujours vaincre, et qui rappelle que Morh-Khaz vit depuis toujours à l'ombre
+des [Dents du Crépuscule](../regions/dents_du_crepuscule.md).
