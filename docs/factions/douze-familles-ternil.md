@@ -11,50 +11,50 @@ Toutes sont humaines, à l’exception notable des **Sangdragon**, drakéïdes d
 
 ## Les Familles
 
-### Sangdragon (drakéïdes)  
-- **Spécialité** : artefacts draconiques (sang, os, écailles, trophées, objets rituels).  
-- Seule famille non-humaine du conseil. Incontournable mais mal vue.  
+### Sangdragon (drakéïdes)
 
-### Setani  
-- **Spécialité** : soie (manufactures de l’Imrisse, contrôle du village d’Ilygan).  
-- Leur soie est prisée jusqu’à la cour de Siquimes.  
+Les Sangdragon sont spécialisés dans les artefacts draconiques : sang, os, écailles, trophées et objets rituels. Seule famille non-humaine du conseil, ils sont incontournables mais mal vus par les autres.
 
-### Hayzreni  
-- **Spécialité** : pigments rares (issus de la mine naine de Hayzgar).  
-- Fournisseurs privilégiés des teinturiers et tisserands.  
+### Setani
 
-### Drevaldi  
-- **Spécialité** : pierres précieuses (commerce et taille).  
-- Joailliers influents, liés aux cités de la côte.  
+Les Setani contrôlent le commerce de la soie, produite dans les manufactures de l’Imrisse et notamment dans le village d’Ilygan. Leur soie est prisée jusqu’à la cour de Siquimes.
 
-### Corvelli  
-- **Spécialité** : métaux précieux (or, argent, platine).  
-- Famille réputée pour sa richesse insolente.  
+### Hayzreni
 
-### Brescari  
-- **Spécialité** : laine (élevage et filatures).  
-- Alliés traditionnels des Hayzreni pour la teinture.  
+Les Hayzreni tirent leur fortune des pigments rares issus de la mine naine de Hayzgar. Ils sont les fournisseurs privilégiés des teinturiers et tisserands.
 
-### Tarrino  
-- **Spécialité** : viande de mouton (élevages, abattoirs, conservation).  
-- Fournisseurs officiels des garnisons de l’ouest.  
+### Drevaldi
 
-### Ormavari  
-- **Spécialité** : roche volcanique de construction (importée de Glounar, royaume de Siquimes).  
-- Architectes et bâtisseurs, responsables du style rouge/noir/blanc.  
+Les Drevaldi se consacrent au commerce et à la taille de pierres précieuses. Joailliers influents, ils entretiennent des liens étroits avec les cités de la côte.
 
-### Cuoiari  
-- **Spécialité** : cuirs et peaux (moutons, chèvres, bêtes des piémonts).  
-- Confection de selles, bottes et armures légères.  
+### Corvelli
 
-### Fedrani  
-- **Spécialité** : bois et charbon (exploitation résiduelle de la forêt de la Porite).  
-- Ressources en déclin mais toujours vitales pour les forges.  
+Les Corvelli dominent le négoce des métaux précieux : or, argent et platine. Leur famille est réputée pour sa richesse insolente.
 
-### Erlandini  
-- **Spécialité** : sel et denrées alimentaires (import/export depuis Siquimes et Vaultclos).  
-- Famille discrète mais indispensable.  
+### Brescari
 
-### Caravossi  
-- **Spécialité** : banques et prêts marchands (financement des caravanes et flottes).  
-- Redoutés pour leur puissance financière : détiennent les dettes de nombreuses autres familles.  
+Les Brescari sont spécialisés dans la laine, de l’élevage aux filatures. Alliés traditionnels des Hayzreni, ils collaborent étroitement avec eux pour la teinture.
+
+### Tarrino
+
+Les Tarrino règnent sur la viande de mouton, contrôlant élevages, abattoirs et conservation. Ils sont les fournisseurs officiels des garnisons de l’ouest.
+
+### Ormavari
+
+Les Ormavari importent la roche volcanique de construction depuis Glounar, dans le royaume de Siquimes. Architectes et bâtisseurs, ils sont responsables du style rouge, noir et blanc caractéristique de Ternil.
+
+### Cuoiari
+
+Les Cuoiari travaillent les cuirs et peaux de moutons, chèvres et bêtes des piémonts. Ils assurent la confection de selles, bottes et armures légères.
+
+### Fedrani
+
+Les Fedrani exploitent le bois et le charbon issus de ce qui reste de la forêt de la Porite. Leurs ressources sont en déclin mais demeurent vitales pour les forges.
+
+### Erlandini
+
+Les Erlandini gèrent le commerce du sel et des denrées alimentaires, par import et export depuis Siquimes et Vaultclos. Famille discrète, ils n’en restent pas moins indispensables.
+
+### Caravossi
+
+Les Caravossi tiennent les banques et les prêts marchands, finançant caravanes et flottes. Redoutés pour leur puissance financière, ils détiennent les dettes de nombreuses autres familles.  

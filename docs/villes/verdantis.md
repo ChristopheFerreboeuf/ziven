@@ -14,46 +14,33 @@ Verdantis est la capitale du royaume de [Vaultclos](../royaumes/vaultclos.md), s
   <img src="../../images/verdantis.jpg" alt="Verdantis, son palais qui surplombe la mer" />
 </a>
 ## Fondements géologiques et esthétiques
-### Le calcaire glauconieux : l’âme de Verdantis
-- **Origine** :
-  Bâtie sur un ancien récif fossile, la ville doit sa teinte unique à la **glauconie**, un minéral vert formé il y a des millions d’années sous les mers. Selon la légende, les vagues enchantées des premiers druides marins auraient **teinté la pierre lors de la Grande Marée Enchantée**.
-- **Couleur** : Vert pâle à gris-vert, **scintillant** sous le soleil (inclusions de mica/pyrite), **bleuté** sous la lune (bioluminescence résiduelle).
-- **Texture** : Granulaire, rugueuse, propice à la pousse de **lichens** et de **coquillages**.
+### Le calcaire glauconieux : l'âme de Verdantis
 
-- **Quartiers populaires** : Blocs bruts, joints comblés de corail broyé.
-- **Bâtiments publics** : Pierre polie, incrustée de **cuivre vert-de-gris** (protection contre la magie noire).
+Bâtie sur un ancien récif fossile, la ville doit son **origine** et sa teinte unique à la **glauconie**, un minéral vert formé il y a des millions d'années sous les mers. Selon la légende, les vagues enchantées des premiers druides marins auraient **teinté la pierre lors de la Grande Marée Enchantée**. Sa **couleur** va du vert pâle au gris-vert, **scintillant** sous le soleil grâce aux inclusions de mica et de pyrite, et prenant un aspect **bleuté** sous la lune en raison d'une bioluminescence résiduelle. Sa **texture** est granulaire et rugueuse, propice à la pousse de **lichens** et de **coquillages**.
+
+Dans les **quartiers populaires**, on trouve des blocs bruts avec des joints comblés de corail broyé. Les **bâtiments publics** sont en pierre polie, incrustée de **cuivre vert-de-gris** qui protège contre la magie noire.
 
 ### Le marbre vert : symbole de pouvoir
-  - **Palais royal** et **temples** : Marbre vert des Abysses (veines noires ou dorées).
+
+Le **palais royal** et les **temples** sont bâtis en marbre vert des Abysses, parcouru de veines noires ou dorées.
 
 
 ## Le Palais de Verdantis
 ### Structure
-- **Fondations** :
-  - Bâti sur un promontoire de **basalte noir**, contrastant avec le vert.
-  - Salles basses creusées dans la falaise, avec **bains thermaux sulfureux**.
-- **Façade** :
-  - Mosaïques de **malachite, turquoise et lapislazzuli** représentant dragons marins.
-  - Balcons en **marbre translucide** (vision des poissons en contrebas).
-- **Toit** :
-  - Tuiles en **cuivre patiné**, incrustées de saphirs.
-  - Flèche centrale en **cristal de béryl vert** (phare magique).
+
+Les **fondations** sont bâties sur un promontoire de **basalte noir**, contrastant avec le vert, et les salles basses, creusées dans la falaise, abritent des **bains thermaux sulfureux**.
+
+La **façade** est ornée de mosaïques de **malachite, turquoise et lapislazzuli** représentant des dragons marins, et les balcons sont en **marbre translucide** permettant d'observer les poissons en contrebas.
+
+Le **toit** est couvert de tuiles en **cuivre patiné**, incrustées de saphirs, et surmonté d'une flèche centrale en **cristal de béryl vert** qui sert de phare magique.
 
 ### **Salle du trône**
-- **Trône** :
-  - Jade impérial avec incrustations de **cymophane** (yeux de chat).
-  - Dossier sculpté en **pieuvre géante**, tentacules en bronze féerique.
-- **Sol** :
-  - Labyrinthe de marbre en spirale (courants marins), **Pierre de Lune verte** au centre.
-- **Plafond** :
-  - Fresque céleste enchantée : étoiles en **émeraudes**, constellations mobiles.
+
+Le **trône** est en jade impérial avec des incrustations de **cymophane** (yeux de chat), et son dossier est sculpté en forme de **pieuvre géante** aux tentacules en bronze féerique. Le **sol** présente un labyrinthe de marbre en spirale évoquant les courants marins, avec une **Pierre de Lune verte** au centre. Le **plafond** est une fresque céleste enchantée où les étoiles sont des **émeraudes** et les constellations sont mobiles.
 
 ### **Jardins suspendus**
-- **Terasses** :
-  - Murs en calcaire percé de niches à **orchidées bioluminescentes**.
-  - Bassins d’eau de mer avec **coraux vivants** et statues de naiades.
-- **Ponton royal** :
-  - Quai privé en **bois pétriifié vert**, voiles des navires en **algues filées**.
+
+Les **terrasses** sont composées de murs en calcaire percé de niches à **orchidées bioluminescentes**, et de bassins d'eau de mer avec **coraux vivants** et statues de naiades. Le **ponton royal** est un quai privé en **bois pétrifié vert**, d'où partent des navires aux voiles d'**algues filées**.
 
 ---
 **Devise** :

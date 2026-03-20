@@ -13,14 +13,9 @@ d'[Onalpita](../regions/onalpita.md) et offre une vue imprenable sur les environ
 
 ## Architecture
 
-Le manoir s'organise sur plusieurs niveaux :
+Le manoir s'organise sur plusieurs niveaux. Le **Rez-de-chaussée** comprend une grande salle de réception, une cuisine, des quartiers des gardes et des pièces de service. L'**Étage** accueille les appartements privés de Lord Edgar de Valmont, des chambres d'hôtes, un bureau et une bibliothèque personnelle. La **Crypte**, au niveau inférieur, abrite les caveaux de la famille de Valmont.
 
-- **Rez-de-chaussée** : grande salle de réception, cuisine, quartiers des gardes et pièces de service.
-- **Étage** : appartements privés de Lord Edgar de Valmont, chambres d'hôtes, bureau et bibliothèque personnelle.
-- **Crypte** : niveau inférieur abritant les caveaux de la famille de Valmont.
-
-La bâtisse est construite en pierre sombre des collines, contrastant avec le marbre blanc extrait de la carrière voisine
-qui orne certains éléments décoratifs — colonnes, encadrements de portes et cheminées.
+La bâtisse est construite en pierre sombre des collines, contrastant avec le marbre blanc extrait de la carrière voisine qui orne certains éléments décoratifs : colonnes, encadrements de portes et cheminées.
 
 ## Défenses
 

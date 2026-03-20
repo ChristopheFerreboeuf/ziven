@@ -10,8 +10,6 @@ category: lieux
 ## Organisation
 Conseil des Marteaux, contremaîtres élus, contrats de partage.
 
-## Points d’intérêt
-- **Puits des Sept Anneaux** (ascenseur à chaînes).
-- Forgerie **Ambre-Fer**.
-- Galerie scellée de **Torskar** (interdite).
+## Points d'intérêt
 
+Le **Puits des Sept Anneaux** est un ascenseur à chaînes. La forgerie **Ambre-Fer** produit des pièces renommées. La galerie scellée de **Torskar** est interdite d'accès.

@@ -5,34 +5,27 @@ category: regions
 type: region
 ---
 
-# Les Dents du Crépuscule  
+# Les Dents du Crépuscule
 
-**Type** : Région sauvage (non reconnue comme royaume).  
+**Type** : Région sauvage (non reconnue comme royaume).
 
-## Situation générale  
-- Territoire ravagé par les **éruptions volcaniques** et les **raids de dragons**.  
-- Aucun pouvoir central, aucun royaume ne revendique de droits sur la région.  
-- Paysage hostile : pics volcaniques, vallées de cendres, cavernes profondes.  
-- Source du fleuve [Imrisse](../fleuves/imrisse.md)
+## Situation générale
 
-## Peuples présents  
-Seules trois espèces humanoïdes y survivent :  
-- **Drakéides** : dispersés en petites communautés, mais protecteurs de la **ville-forge de Thuldrem**. Ils défendent la cité contre les dragons en échange de **pierres précieuses**, qu’ils écoulent ensuite via [Tharvell](../royaumes/tharvell.md), mais aussi par la cité-État de [Ternil](../villes/ternil.md) (via Morh-Khaz) ou par [Vaultclos](../royaumes/vaultclos.md) (via [Brennar](../villes/brennar.md) ou [Verdantis](../villes/verdantis.md)).  
-- **Goliaths** : semi-nomades, installés autour des **carrières**. En cas d’attaque draconique, ils s’abritent dans des galeries souterraines. La pierre elle-même ne les intéresse pas.  
-- **Nains** : répartis en clans, souvent liés à l’exploitation minière ou à la forge.  
+Ce territoire est ravagé par les **éruptions volcaniques** et les **raids de dragons**. Aucun pouvoir central ne s'y exerce, et aucun royaume ne revendique de droits sur la région. Le paysage est hostile, composé de pics volcaniques, de vallées de cendres et de cavernes profondes. C'est également la source du fleuve [Imrisse](../fleuves/imrisse.md).
+
+## Peuples présents
+
+Seules trois espèces humanoïdes y survivent. Les **Drakéides** vivent dispersés en petites communautés, mais protègent la **ville-forge de Thuldrem**. Ils défendent la cité contre les dragons en échange de **pierres précieuses**, qu'ils écoulent ensuite via [Tharvell](../royaumes/tharvell.md), mais aussi par la cité-État de [Ternil](../villes/ternil.md) (via Morh-Khaz) ou par [Vaultclos](../royaumes/vaultclos.md) (via [Brennar](../villes/brennar.md) ou [Verdantis](../villes/verdantis.md)). Les **Goliaths** sont semi-nomades, installés autour des **carrières**. En cas d'attaque draconique, ils s'abritent dans des galeries souterraines, et la pierre elle-même ne les intéresse pas. Les **Nains** sont répartis en clans, souvent liés à l'exploitation minière ou à la forge.
 
 
-## Villes et communautés  
-La majorité des habitants vit en **petites communautés isolées**.  
-Exceptions :  
-- **[Khazrund](../villes/khazrund.md)** : grande ville-mine (plus de 2000 habitants).  
-- **Thuldrem** : ville-forge (plus de 2000 habitants), protégée par les drakéides.  
+## Villes et communautés
+
+La majorité des habitants vit en **petites communautés isolées**. Deux exceptions notables se distinguent : **[Khazrund](../villes/khazrund.md)**, une grande ville-mine de plus de 2000 habitants, et **Thuldrem**, une ville-forge de plus de 2000 habitants, protégée par les drakéides.
 
 
-## Caractère de la région  
-- Région rude, instable et dangereuse.  
-- Population clairsemée mais résiliente.  
-- Importance stratégique : ressources minières et gemmes.  
+## Caractère de la région
+
+La région est rude, instable et dangereuse. Sa population est clairsemée mais résiliente. Son importance stratégique tient à ses ressources minières et à ses gemmes.
 
 <div class="gallery">
 <a href="../../images/grande-salle-khazrund.png" class="glightbox right" data-gallery="Khazrund"

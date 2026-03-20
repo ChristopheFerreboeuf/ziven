@@ -8,7 +8,5 @@ category: villes
 **Résumé :** Village commerçant au nord du lac Dorin. Halte fluviale, pontons et entrepôts.
 
 ## Lieux
-- **Maison des Bateliers**.
-- **Relais du Croissant**.
-- **Atelier des Filets-Longs**.
 
+On y trouve la **Maison des Bateliers**, le **Relais du Croissant** et l'**Atelier des Filets-Longs**.

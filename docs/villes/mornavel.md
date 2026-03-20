@@ -5,10 +5,8 @@ category: villes
 ---
 # Mornavel – Le Voile des Herbes
 
-**Résumé :** Village de rives brumeuses à l’est. Herboristes réputés, légendes tenaces.
+**Résumé :** Village de rives brumeuses à l'est. Herboristes réputés, légendes tenaces.
 
 ## Lieux
-- **Jardin des Nappes** (plantes rares).
-- **Pierres-Échos**.
-- **Maison des Remèdes**.
 
+On y trouve le **Jardin des Nappes**, où poussent des plantes rares, les **Pierres-Échos** et la **Maison des Remèdes**.

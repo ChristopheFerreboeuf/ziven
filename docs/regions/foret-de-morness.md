@@ -44,21 +44,15 @@ constante tout au long du trajet.
 
 **Frange nord (bordure de Verdantis et des cités côtières)**
 
-- Zone la plus accessible, partiellement défrichée aux abords des routes.
-- C'est ici que se trouvent la plupart des sanctuaires et villages en lisière.
+C'est la zone la plus accessible, partiellement défrichée aux abords des routes. La plupart des sanctuaires et villages en lisière s'y trouvent.
 
 **Cœur marécageux (partie centrale)**
 
-- Zone la plus dangereuse. Les marais y rendent les sentiers instables, changeants, parfois inexistants.
-- Sortir des rares sentiers balisés est presque aussi dangereux que de les suivre.
-- Visibilité réduite, brume permanente, sons trompeurs.
-- Les feux follets y sont nombreux et attirent les imprudents vers les zones les plus profondes.
+Il s'agit de la zone la plus dangereuse. Les marais y rendent les sentiers instables, changeants, parfois inexistants. Sortir des rares sentiers balisés est presque aussi dangereux que de les suivre. La visibilité est réduite, la brume permanente et les sons trompeurs. Les feux follets y sont nombreux et attirent les imprudents vers les zones les plus profondes.
 
 **Frange est (bordure de Dorna)**
 
-- Forêt plus dense, moins marécageuse mais tout aussi opaque.
-- Zone d'implantation principale des villages drows.
-- Des ateliers alchimiques clandestins y opèrent, prélevant des plantes sacrées sans respect des équilibres naturels.
+La forêt y est plus dense, moins marécageuse mais tout aussi opaque. C'est la zone d'implantation principale des villages drows. Des ateliers alchimiques clandestins y opèrent, prélevant des plantes sacrées sans respect des équilibres naturels.
 
 ---
 
@@ -66,8 +60,7 @@ constante tout au long du trajet.
 
 ### Les Drows de Morness
 
-Arrivés par bateau il y a plusieurs générations, d'abord chassés par les populations de Dorna, puis acceptés pour leur *
-*immunité naturelle aux poisons** et leur maîtrise inégalée des toxines. Ils se sont installés dans des villages
+Arrivés par bateau il y a plusieurs générations, d'abord chassés par les populations de Dorna, puis acceptés pour leur **immunité naturelle aux poisons** et leur maîtrise inégalée des toxines. Ils se sont installés dans des villages
 discrets à l'orée de la forêt, principalement côté Dorna.
 
 Leur commerce est le moteur économique invisible de toute la région : la **larme de minuit** et d'autres poisons
@@ -147,14 +140,13 @@ Certains chamans saurials auraient des accords tacites avec les guenaudes vertes
 ### Feux follets
 
 Concentrés dans le cœur marécageux. Attirent les voyageurs hors des sentiers, parfois jusqu'à la noyade, parfois
-jusqu'aux zones tenues par les guenaudes. Leur origine est inconnue — esprits de voyageurs perdus, créatures
-indépendantes, ou serviteurs d'une puissance plus ancienne. Les Drows les considèrent comme des gardiens involontaires
+jusqu'aux zones tenues par les guenaudes. Leur origine est inconnue, qu'il s'agisse d'esprits de voyageurs perdus, de créatures
+indépendantes, ou de serviteurs d'une puissance plus ancienne. Les Drows les considèrent comme des gardiens involontaires
 et ne cherchent pas à les éliminer.
 
 ### Guenaudes vertes
 
 Présentes dans les profondeurs marécageuses de la partie centrale. Au moins trois covens sont connus, peut-être
-davantage. Elles connaissent la forêt mieux que quiconque et ont des rapports ambigus avec les Drows — ni alliance
+davantage. Elles connaissent la forêt mieux que quiconque et ont des rapports ambigus avec les Drows, ni alliance
 franche, ni hostilité ouverte. Elles achètent parfois des ingrédients rares aux alchimistes clandestins de la frange est
 et semblent intéressées par tout ce qui touche aux plantes sacrées.
-

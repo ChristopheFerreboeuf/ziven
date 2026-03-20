@@ -12,9 +12,8 @@ category: lieux
 data-title="Volcan Negovar">
 <img src="../../images/Negovar.png" alt="Volcan Negovar"/>
 </a>
-Cratère instable, coulées anciennes, tunnels de lave. Sous le volcan, la **mine naine** de [Negovarund](../villes/negovarund.md) s’étend en profondeur.
+Cratère instable, coulées anciennes, tunnels de lave. Sous le volcan, la **mine naine** de [Negovarund](../villes/negovarund.md) s'étend en profondeur.
 
-## Points d’intérêt
-- **Champs de Cendre**, pâturages minéraux.
-- **Autel des Fumées**, promontoire rituel.
-- Fumaroles toxiques de **Vael’soufre**.
+## Points d'intérêt
+
+Les **Champs de Cendre** sont des pâturages minéraux. L'**Autel des Fumées** sert de promontoire rituel. Les fumaroles toxiques de **Vael'soufre** rendent certaines zones dangereuses.

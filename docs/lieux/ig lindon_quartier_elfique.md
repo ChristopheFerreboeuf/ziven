@@ -1,5 +1,5 @@
 ---
-title: Iglindon — Quartier elfique
+title: Iglindon, Quartier elfique
 layout: default
 category: lieux
 type: lieu
