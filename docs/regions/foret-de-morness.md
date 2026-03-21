@@ -14,10 +14,7 @@ nord de la forêt) du reste de son territoire méridional.
 
 Elle est humide, légèrement marécageuse dans sa partie centrale, et surnommée **"la forêt des larmes"** à cause de la
 rosée qui goutte en permanence des arbres comme des pleurs. Le climat y est chaud et lourd, typique des latitudes
-septentrionales de l'hémisphère sud. Les **Hodirs** y poussent naturellement, ces arbres ont des fleurs au parfum
-envoûtant qui peut faire entrer en transe n'importe qui au moment de la floraison. Les druides de **[Skjorren](../villes/skjorren.md)** s'en
-servent
-pour entrer dans une transe divinatoire.
+septentrionales de l'hémisphère sud.
 
 ### Voyage à travers la forêt
 
@@ -150,3 +147,15 @@ Présentes dans les profondeurs marécageuses de la partie centrale. Au moins tr
 davantage. Elles connaissent la forêt mieux que quiconque et ont des rapports ambigus avec les Drows, ni alliance
 franche, ni hostilité ouverte. Elles achètent parfois des ingrédients rares aux alchimistes clandestins de la frange est
 et semblent intéressées par tout ce qui touche aux plantes sacrées.
+
+### Dryades
+
+Les dryades sont présentes dans toute la forêt, liées à ses arbres comme à ses secrets. Méfiantes et peu loquaces, elles observent sans intervenir, sauf raison valable. Ensemble, elles forment un réseau de surveillance passif que peu de voyageurs soupçonnent. Ce qu'elles savent peut se monnayer, à condition de savoir s'y prendre.
+
+## Flore
+
+### Les Moudars
+Espèce tropicale à croissance extrêmement lente, les moudars atteignent des tailles imposantes sur plusieurs siècles. Leur tronc peut prendre des circonférences considérables avec l'âge. Quelques spécimens anciens poussent au cœur de Morness, dans des sanctuaires reculés, plantés par des mains dont le souvenir s'est perdu.
+
+### Les Hodirs
+Espèce endémique de Morness, les hodirs sont reconnaissables à leurs fleurs au parfum envoûtant, capable de provoquer une transe chez quiconque les respire au moment de la floraison. Les druides de Skjorren font le voyage jusqu'à la forêt pour en récolter les fleurs, qu'ils utilisent pour entrer dans un état divinatoire. Leur présence est l'une des raisons pour lesquelles certaines zones de Morness sont plus dangereuses qu'elles n'y paraissent.
